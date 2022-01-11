@@ -1,0 +1,759 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=alBisLNnnwo7', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=alBisLNnnwo7', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=alBisLNnnwo7', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=alBisLNnnwo7', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=alBisLNnnwo7';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=alBisLNnnwo7';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=alBisLNnnwo7';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=alBisLNnnwo7';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=alBisLNnnwo7';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=alBisLNnnwo7';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=alBisLNnnwo7';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=alBisLNnnwo7';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=alBisLNnnwo7';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=alBisLNnnwo7';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=alBisLNnnwo7';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=alBisLNnnwo7';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=alBisLNnnwo7';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=alBisLNnnwo7';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=alBisLNnnwo7">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=alBisLNnnwo7">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/troll.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=alBisLNnnwo7">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           18 total users, 3 logged in users, 15 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114209 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.cafepress.com/earthdawn" class="imglink"><img src="/adverts/cafeed.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               <span xmlns="" class="Heading">Gallery: Fan Art</span><br xmlns=""><table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="90%" valign="top" class="TableCellAlternate" colspan="2">This is a group for fans to upload their art to share it with the rest of the ED community.</td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/galleries.html;jsessionid=alBisLNnnwo7">Return to Galleries</a></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=203358&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=203358&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>A New Pet</b> (sadestockdark.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 66 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        erm.. i don't have idea about name and statistic..<br/>it was just exercising
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202995&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202995&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Ailion (2nd version)</b> (sadeailionkicsi.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 110 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        She is my illusionist, Ailion. <br/>She is very serious this time, and she blush.<br/>It had made for special scene.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=203380&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=203380&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Air Sailor</b> (sadekaloz.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 55 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        Just a concept art thingie
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157926&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157926&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Ancient</b> (sadetotem.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 313 times.</i><br>
+                        It was just an idea, and i did it fast
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157927&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157927&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Angry</b> (199monkibonki.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 95 times.</i><br>
+                        Another oooold oooone
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=180776&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=180776&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Another Illustration for my blood charm project (no11)</b> (sadedesign11.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 76 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        awh.. i see everywhere lines. the vector is not my style<br/>bleh. <br/>never come out well :(
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155182&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155182&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Ash Phantom</b> (sadefarkancs.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 100 times.</i><br>
+                        Illustration for Book of Tomorrow.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160212&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160212&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Auralis</b> (sadeize2.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 301 times.</i><br>
+                        Model: Auralis :)<br/>She liked it, hope you like it too. *shy smile*
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=158059&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=158059&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Bloodelf</b> (sadebloodelf2.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 367 times.</i><br>
+                        i don't feel i need comment this picture.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155180&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155180&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Cadavar Man</b> (sadecolourcad.jpg) by Source: pg288 Sourcebook, colour/redraw: Sade<br><i>This file was uploaded by sade and has been viewed 197 times.</i><br>
+                        Cadaver Man
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155192&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155192&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Calm</b> (sadream2.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 81 times.</i><br>
+                        Border for my nethermancer spells.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=190633&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=190633&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Choosen Ones</b> (sadeparkas2_3.JPG) by Sade<br><i>This file was uploaded by sade and has been viewed 215 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        I know it's faerly unfinished. sorry. imagine wall, runes, horror, or what you want in background.. bleh
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=188260&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=188260&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Contest Image</b> (sademonster.JPG) by Sade<br><i>This file was uploaded by sade and has been viewed 78 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        It will be part of my little opening contests to the developing Earthdawn site.<br/>Seek this monter name/stats/game mechanical
+                        rules/adventures hook.<br/>Blabla.. I can't wait when will it open, just i throught i send a spoiler :D<br/>(The site at first
+                        will be avaible just hungarian language, but perhaps i will translate the contest, and write to the forums. :)
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160018&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160018&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Dirk the Airsailor</b> (dirk.jpg) by Cameron Garrett<br><i>This file was uploaded by Dahklite and has been viewed 137 times.</i><br>
+                        The only surviving member of the Slient Storm. Dirk is a human airsailor which specializes is some illusion spells
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=163428&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=163428&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Dwarf Talisman seller in Colour</b> (szinestorpi.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 121 times.</i><br>
+                        My pal asked i colour it. I drawt for originaly black and white linart, it lost alot of charm in colour, but he liked it..
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155185&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155185&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Dwarf Troubadour</b> (sadedwarf2.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 205 times.</i><br>
+                        Another old fanart.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=180159&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=180159&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Earthdawn PinUp - Miss Borrum</b> (sadeside2.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 277 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        For Lonewolf, who loved my silly background. For my players, who love my silly style. For you.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=180054&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=180054&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Earthdawn PinUp Wallpaper</b> (edwallpap.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 100 times.</i><br>
+                        I did it for my party, I hope you enjoy too :)<br/>buh..boys..
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=156812&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=156812&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Entrance</b> (Gate_of_great_library.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 189 times.</i><br>
+                        Entrance for the .. ?
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157922&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157922&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Fire Based Creature</b> (sadeasher.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 160 times.</i><br>
+                        Fire based creature / fire elemental
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160929&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160929&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>I'Mael's sword</b> (sadeimael.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 222 times.</i><br>
+                        This sword is owned by my ork swordmaster, named I'mael Zanjan. I Used photo references, when i did, (Vector) but i'm proud
+                        at this piece. Secret: I _love_ swords.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157923&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157923&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Illustration for BoT</b> (sadeillustiger.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 77 times.</i><br>
+                        another old fanart
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=198934&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=198934&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Join the Army</b> (sadejoin_2.JPG) by Sade<br><i>This file was uploaded by sade and has been viewed 174 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        The throalian propabanda allways was good.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155183&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155183&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Kaer</b> (sadekaer.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 316 times.</i><br>
+                        My first (olderst) Earthdawn Fanart
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160016&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160016&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Kalor the Ork Skyraider</b> (kalor.jpg) by Cameron Garrett<br><i>This file was uploaded by Dahklite and has been viewed 178 times.</i><br>
+                        My all time fav Earthdawn character. in our game he killed Gen Nikkar with a dying deed. What a legend.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155184&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155184&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Kreescra</b> (sadekreescra.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 140 times.</i><br>
+                        My character met with him. I drawt it.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=187122&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=187122&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Manganoid Young Troll Swordmaster from Swiftwind Clan</b> (sadetrollmanga_2.JPG) by Sade<br><i>This file was uploaded by sade and has been viewed 172 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        Yea, i don't like the new manganoid earthdawn. <br/>This is a gift art fow who like.<br/>I know his anatomy not too well,
+                        i will redraw it.<br/>(Truly)
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155748&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155748&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Meadow of The Dead</b> (undeadmudlow.jpg) by Daniel Larking<br><i>This file was uploaded by Richard Vowles and has been viewed 221 times.</i><br>
+                        Who knows what happened here?
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157924&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157924&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Meditating Elf</b> (sademedit.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 108 times.</i><br>
+                        Another old fanart.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155188&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155188&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Mist Swamp</b> (sadesilence.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 186 times.</i><br>
+                        Mist Swamp.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155749&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155749&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Obsidiman or Obsidiman Skin?</b> (obsidiman.jpg) by Daniel Larking<br><i>This file was uploaded by Richard Vowles and has been viewed 325 times.</i><br>
+                        Interesting interpretation of Obsidiman.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202865&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202865&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Radharc</b> (saderadharc_2.JPG) by Sade<br><i>This file was uploaded by sade and has been viewed 58 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        He is Radharc, the human sky raider from our party. this is the first time, when i try draw down him, i hope he will like
+                        it.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157925&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=157925&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Shaman</b> (sadeshaman.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 161 times.</i><br>
+                        Our human shaman NPC.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202991&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202991&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Shizel</b> (sadeshizel_2.JPG) by Sade<br><i>This file was uploaded by sade and has been viewed 94 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        She is my character's (Ailion) "invisible friend", Shizel.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160021&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=160021&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Sithean the faceless</b> (sithean.jpg) by Cameron Garrett<br><i>This file was uploaded by Dahklite and has been viewed 109 times.</i><br>
+                        This poor soul has half his face eaten off by his horror tainted child. and lived to become a Swordmaster
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155750&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155750&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Soul Eater</b> (souleatingfun.jpg) by Daniel Larking<br><i>This file was uploaded by Richard Vowles and has been viewed 156 times.</i><br>
+                        A Horror that propels itself through the consumed souls of its victims.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202223&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=202223&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Swordie</b> (sadeswordiebw.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 130 times.</i><br>More information at <a href="http://sade.epilogue.net">http://sade.epilogue.net</a><br><br>
+                        Yeah, another swordmaster. sorry. It's just little more than doodlie, but my pal loved it.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=156650&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=156650&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Swordmastah</b> (sadebordersword2.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 220 times.</i><br>
+                        swordmaster illustrarion
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=163239&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=163239&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Talisman 2</b> (sadetalisman.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 95 times.</i><br>
+                        I did it for my Bloodcharm Project. If you have a good bloodcharm idea, or house rule, or anything in that theme relation,
+                        please send: sade@mindworks.hu<br/>Meow.<br/>This is the 3rd picture, what i sent in this theme's related. Yay.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=163135&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=163135&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Talisman Seller</b> (sadedwarftal.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 122 times.</i><br>
+                        I did it for my Bloodcharm Project.  If you have a good bloodcharm idea, or house rule, or anything in that theme relation,
+                        please send: sade@mindworks.hu<br/>Meow.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=165110&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=165110&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Troll Illustration</b> (sadetrollbook.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 340 times.</i><br>
+                        :)
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155186&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=155186&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Windling</b> (sadewind2.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 504 times.</i><br>
+                        :)
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=156648&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=156648&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Windling</b> (sadexter.jpg) by Sade<br><i>This file was uploaded by sade and has been viewed 411 times.</i><br>
+                        another winling fanart. felt tip pen and aquarell
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+               </table>
+               
+               
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

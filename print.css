@@ -1,0 +1,402 @@
+
+/*
+	Default page values
+*/
+body
+{
+  background-color: #ffffff;
+  font-size: 12px;
+  font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+#wrapper
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* this is the main content in the middle */
+
+#rest
+{
+   margin-left: 1em;
+   margin-right: 1em;
+   margin-bottom: 3em;
+   margin-top: 3em;
+    padding-left: 1em;
+    padding-right: 1em;
+   border: 0px;
+   background-color: #EEEEEE;
+}
+
+#left
+{
+  display: none;
+}
+
+
+#welcome
+{
+  display: none;
+}
+
+#greeting
+{
+  display: none;
+}
+
+input
+{
+  font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none
+}
+
+textarea
+{
+  font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none
+}
+
+select
+{
+  font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none
+}
+
+h1 {
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 130%;
+	color:#284B78;
+	font-weight:bold;
+	text-decoration:none;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+h2 {
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 110%;
+	color:#284B78;
+	font-weight:bold;
+	text-decoration:none;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+
+.ItemHeading {
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 130%;
+	color:#284B78;
+	font-weight:bold;
+	text-decoration:none;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+.ItemType {
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 110%;
+	color:#284B78;
+	font-weight:bold;
+	text-decoration:none;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+
+h1 a, h2 a {
+	border: none;
+	color:#284B78;
+	text-decoration:none;
+}
+
+.ItemHeading a, .ItemType a {
+	border: none;
+	color:#284B78;
+	text-decoration:none;
+}
+
+/* generic table cell */
+
+td {
+ background-color: #ffffff;
+ font-size: 12px;
+  font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.iteminfo {
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	color:black;
+	padding-bottom:0.5em;
+}
+
+.heavyweight {
+  font-weight      : bold;
+}
+
+.Alert
+{
+  color            : #FF6600;
+  font-size        : 12px ;
+  font-weight      : bolder;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.TableCell
+{
+  font-size        : 12px ;
+}
+
+.TableCellSmall
+{
+  font-size        : 9px ;
+}
+
+.TableCellSmallCentre
+{
+  font-size        : 9px ;
+  text-align       : center;
+}
+
+.TableCell, .TableCellSmall, .TableCellSmallCentre
+{
+  background-color: #F6F6F4;
+  color            : #000000 ;
+  font-weight      : normal ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.TableCellAlternate
+{
+  font-size        : 12px ;
+}
+
+
+.TableCellAlternateSmall
+{
+  font-size        : 9px ;
+}
+
+.TableCellAlternateSmallCentre
+{
+  font-size        : 9px ;
+  text-align       : center;
+}
+
+.TableCellAlternate, .TableCellAlternateSmall, .TableCellAlternateSmallCentre
+{
+  background-color: #E8E8E8;
+  color            : #000000 ;
+  font-weight      : normal ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.TableCellHeading
+{
+  font-size        : 13px ;
+  font-weight      : bold;
+}
+
+/* used in the Summary component */
+.TableCellHeadingSmall
+{
+  font-size        : 9px ;
+  font-weight      : bold;
+  text-align       : center;
+}
+
+/* for normal text in what would normally be a heading */
+.TableCellHeadingText
+{
+  font-size        : 9px ;
+  font-weight      : normal;
+}
+
+.TableCellHeading, .TableCellHeadingSmall, .TableCellHeadingText
+{
+  background-color : #6699FF;
+  color            : #ffffff ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.TableCellSelected
+{
+  background-color : #00CCFF;
+  color            : #000000 ;
+  font-size        : 12px ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.TableCellSelectedSmall
+{
+  background-color : #00CCFF;
+  color            : #000000 ;
+  font-size        : 9px ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+.PageHeader
+{
+  color            : #0033FF ;
+  font-size        : 24px ;
+  font-weight      : bold ;
+  font-style       : italic ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.Heading
+{
+  color            : #0033FF ;
+  font-size        : 20px ;
+  font-weight      : bold ;
+  text-align       : left ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.Error
+{
+ color             : #FF0000 ;
+ font-size         : 12px;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.MenuLink {
+  color: #284B78;
+ font-size         : 12px;
+  text-decoration:none;
+  font-weight      : normal ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  text-transform: lowercase;
+}
+
+
+.MenuLink:hover {
+  color: #284B78;
+  font-size         : 12px;
+  text-decoration:none;
+  font-weight      : normal ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  border-bottom: 1px solid #108301;
+  text-transform: lowercase;
+}
+
+
+.MenuLinkSelected {
+  color: #339900;
+ font-size         : 12px;
+  text-decoration:none;
+  font-weight      : normal ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  text-transform: lowercase;
+}
+
+
+.MenuLinkSelected:hover {
+  color: #339900;
+  font-size         : 12px;
+  text-decoration:none;
+  font-weight      : normal ;
+  font-family      :"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  border-bottom: 1px solid #108301;
+  text-transform: lowercase;
+}
+
+/*
+	Links
+*/
+
+a {
+  color: #108301;
+  border-bottom: 1px dashed #108301;
+  text-decoration:none;
+  font-weight      : bold ;
+}
+
+a:hover {
+	color: #284B78;
+	border-bottom: 1px solid #284B78;
+}
+
+.imglink {
+  border-bottom: 1px #f0f0f0;
+}
+
+.imglink:hover {
+  border-bottom: 1px #f0f0f0;
+}
+
+.MenuBackground
+{
+}
+
+.graph-colour
+{
+    background-color : #88F39C;
+}
+
+.graph-colour-rest
+{
+    background-color : #E74379;
+}
+
+.XMLLinks a
+{
+	font-family:"Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 110%;
+	color:#284B78;
+	font-weight:bold;
+	text-decoration:none;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+
+.quote
+{
+  border: 1px solid #338BA6;
+}
+
+.quote-author
+{
+  font: 12px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+  text-decoration: underline;
+  margin-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.quote-content
+{
+  margin-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+.simple-shopping-table-priceline
+{
+  background-color: #3462b8;
+  color: white;
+  font-family:  Verdana, Arial, Helvetica, sans-serif;
+}

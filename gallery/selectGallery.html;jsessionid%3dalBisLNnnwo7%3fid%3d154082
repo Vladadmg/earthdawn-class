@@ -1,0 +1,468 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=alBisLNnnwo7', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=alBisLNnnwo7', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=alBisLNnnwo7', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=alBisLNnnwo7', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=alBisLNnnwo7', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=alBisLNnnwo7', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=alBisLNnnwo7';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=alBisLNnnwo7';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=alBisLNnnwo7';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=alBisLNnnwo7';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=alBisLNnnwo7';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=alBisLNnnwo7';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=alBisLNnnwo7';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=alBisLNnnwo7';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=alBisLNnnwo7';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=alBisLNnnwo7';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=alBisLNnnwo7';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=alBisLNnnwo7';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=alBisLNnnwo7';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=alBisLNnnwo7';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=alBisLNnnwo7">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=alBisLNnnwo7">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/windling.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=alBisLNnnwo7">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           18 total users, 3 logged in users, 15 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114209 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com/simple_shopping/shop.html" class="imglink"><img src="/adverts/minis-advert.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               <span xmlns="" class="Heading">Gallery: Fan Miniatures</span><br xmlns=""><table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="90%" valign="top" class="TableCellAlternate" colspan="2">Got any images of miniatures you have painted that you use with ED? Put them here!</td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/galleries.html;jsessionid=alBisLNnnwo7">Return to Galleries</a></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159901&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159901&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Chainmail Stonechild</b> (Chainmail-Stonechild-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 414 times.</i><br>
+                        This miniature is from line of pewter Chainmail miniatures - WotC's predecessor to D&amp;amp;D Miniatures.  The line as a
+                        whole contained mostly two-dimensional sculpts with no depth, but the Stonechild makes an excellent obsidiman.  It's even
+                        scaled a bit taller than most 25mm figures.  It is, however, extremely hard to find at this point.<p/>This miniature's "flesh"
+                        was painted using the granite technique from the Hot-Lead.org web site.  Everything else is rather unremarkable.  I wish I
+                        would have highlighted the stone undercoat before I did the speckling - I think it could be more defined.  This miniature
+                        sees use representing most obsidiman fighter-types the party meets.<p/>Metallics are Games Workshop.  Everything else is painted
+                        with Applebarrel and Delta Ceramcoat paints.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159988&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159988&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Confrontation Griffon Inquisitor #2</b> (Confrontation-GriffonInquisitor-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 305 times.</i><br>
+                        This miniature is from the French company of Rackham, from their Confrontation miniature game.  He was originally painted
+                        for another game, but has seen use as a Horror Stalker in Earthdawn.  <p/>Flesh done in Vallejo Model Color. Metallics in
+                        Games Workshop paints. Everything else done with Applebarrel and Delta Ceramcoat.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169115&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169115&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Despaithoughts</b> (Despairthoughts.jpg) by Lars Gottlieb<br><i>This file was uploaded by Lars Gottlieb and has been viewed 211 times.</i><br>More information at <a href="http://www.secondstep.dk/Minis/">http://www.secondstep.dk/Minis/</a><br><br>
+                        These MageKnight worms looked way too Despairthoughty to avoid getting included in my collection (o:
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161229&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161229&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Games Workshop Dark Elf Corsair (Converted)</b> (GW-DarkElfCorasirConversion-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 312 times.</i><br>
+                        This mini's NMM (my second attempt, actually) photographs much better than it looks in person.  The Dark Elf Corsair miniatures
+                        all have great Sea Dragon Cloaks, which make good Espagra-Scale in a pinch.  Another early miniature done before I started
+                        using Vallejo's, this miniature was also one of my first attempts at weapon-swapping. <p/>Originally this figure had the axe
+                        in his right hand which I removed and replaced with a sword.  The sword itself was built using the hand and hilt of a plastic
+                        Dark Elf Warrior sprue combined with a spear tip from the same sprue.  His right hand and the decapitated head it held was
+                        removed and a closed fist was put in its place.  The arm looked 'empty' so I chopped the blade off the axe I tool from his
+                        right hand and glued it to his bracer to look like a punch dagger/wrist carver.  I'd like to go back and repaint this miniature
+                        now that my skills ahve improved, but haven't had the time.<p/>Since this miniature has no metallic paint on it, everything
+                        is painted with Applebarrel and Delta Ceramcoat paints.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159927&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159927&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Games Workshop Mordheim Mercenary Sprue</b> (GW-MordheimMercSprue_Djavvah-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 264 times.</i><br>
+                        This miniature was assembled from various pieces of the Games Workshop Mordheim Mercenary plastic sprue to represent our group's
+                        archer.  The face seems to have turned our well, but the miniature is not perfect.  It's difficult to see the black picking
+                        on the fletching from this angle, but it's there.  <p/>Flesh done in Vallejo Model Color.  Metallics in Games Workshop paints.
+                        Everything else done with Applebarrel and Delta Ceramcoat.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159898&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159898&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Games Workshop Mordheim Zombie</b> (GW-MordheimZombieSprue-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 203 times.</i><br>
+                        Constructed from a Games Workshop Mordheim Zombie Sprue, this miniature tends to be a favorite around the gaming table.  Not
+                        due to the paint job (which was done during a speed-painting session to get a number of minor miniatures done), but because
+                        of the fear the first Cadaverman it represented put in the party.  Anyone willing to rip off their own leg and beat an adept
+                        senseless with it deserves some respect.  :)<p/>Painted in Applebarrel and Delta Ceramcoat paints.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159897&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159897&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Heartbreaker Earthdawn Journeyman</b> (Heartbreaker-EarthdawnJourneyman-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 277 times.</i><br>
+                        A miniature from the old Heartbreaker Earthdawn line.  The copper studs on the edge of the tunic need to be re-done some time,
+                        but other than that I feel this miniature turned out well.  The miniature was used for an NPC Journeyman in my game, though
+                        has filled in for dual-wielding swordsmen on occasion.<p/>Flesh done in Vallejo Model Color.  Metallics in Games Workshop
+                        paints.  Everything else done with Applebarrel and Delta Ceramcoat.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159894&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159894&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Heartbreaker Earthdawn Troll Sky Raider</b> (Heartbreaker-EarthdawnTrollSkyRaider-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 333 times.</i><br>
+                        A miniature from the old Heartbreaker Earthdawn line.  I was rather happy with how this miniature turned out.  The living
+                        crystal stands out a bit more in person - the reflected light on the photograph washes out some of the darkness of the shadows.
+                        I was temped to go with Ago-Frod at first, but liked the warm feeling the Ago-Chad crystals gave.  Plus next to the contrasting
+                        olive jerkin, it stands out more.  This miniature has been used for the Troll Sky Raider in our party.<p/>Flesh done in Vallejo
+                        Model Color.  Metallics in Games Workshop paints.  Everything else done with Applebarrel and Delta Ceramcoat.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169116&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169116&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Hound of Tindalos</b> (HoundOfTindalos.jpg) by Lars Gottlieb<br><i>This file was uploaded by Lars Gottlieb and has been viewed 219 times.</i><br>More information at <a href="http://www.secondstep.dk/Minis/">http://www.secondstep.dk/Minis/</a><br><br>
+                        This is the mini I've been using for the Hound of Tindalos, which is available in the Creature Creator included in the Second
+                        Step package. It is a GW Ravener with Gaunt arms
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169119&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169119&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Jacue DeVille</b> (Jacque.jpg) by Lars Gottlieb<br><i>This file was uploaded by Lars Gottlieb and has been viewed 228 times.</i><br>More information at <a href="http://www.secondstep.dk/Minis/">http://www.secondstep.dk/Minis/</a><br><br>
+                        This is my long-time character, Jacque DeVille the Swordmaster.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169172&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169172&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Obsidiman Wizard</b> (ObsidimanMage6.jpg) by Lars Gottlieb<br><i>This file was uploaded by Lars Gottlieb and has been viewed 266 times.</i><br>More information at <a href="http://www.secondstep.dk/Minis/">http://www.secondstep.dk/Minis/</a><br><br>
+                        This is the Heartbreaker Earthdawn Obsidiman Wizard miniature. <br/>This depicted a character responsible for murdering at
+                        least 50 innocents in the vain attempt to burn my protagonists in an inn fire.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169174&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169174&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Orks</b> (Orks2.jpg) by Lars Gottlieb<br><i>This file was uploaded by Lars Gottlieb and has been viewed 222 times.</i><br>More information at <a href="http://www.secondstep.dk/Minis/">http://www.secondstep.dk/Minis/</a><br><br>
+                        This is the Heartbreaker Earthdawn orks set
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161238&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161238&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Reaper 14043 - Lurg, Half-Orc Assassin</b> (Reaper-14043LurgHalfOrc-Tridae-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 220 times.</i><br>
+                        Some Earthdawn characters are relatively hard to represent with miniatures.  Tridae, our group's Ork Beastmaster, was one
+                        of them.  Claws just aren't common weapons on miniatures, but luckily Reaper put out Lurg here.  It's not perfect, but at
+                        the claw weapon and dreadlocks make this the closest we could find.  The ribbed underclothing was originally green, but the
+                        finished product reminded me of Peppermint Patty so that had to change.  The player's second choice was red, so I went with
+                        that.  The camera washed out some of the red's shading, but you can still see some of it.  <p/>Flesh done in Vallejo Model
+                        Color. Metallics in Games Workshop paints. Everything else done with Applebarrel and Delta Ceramcoat.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161227&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161227&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Reaper 2430 - Rictur Diehn</b> (Reaper-2430RicturDiehn-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 262 times.</i><br>
+                        This miniature was inspired by a version painted by Jen Haley located at http://www.wegotgame.net/jen/rictur.html.  Her paint
+                        job was the only reason I picked this mini up - I just thought it looked great.  This was probably the first mini I thought
+                        I did a decent job of, though hers is far better.  This miniatures flesh was done in craft paints way back before I started
+                        using Vallejos.  The cloak shading is a little deeper in person, but for one of my earlier minis, I was very happy with the
+                        smoothness of it.  I think I might go back and paint the metal on the two-handed sword to look like a sheath - I don't think
+                        the NMM turned out too well.  The punch dagger and metal studs on the armor were small enough that they turned out much better.
+                        This miniature has seen use as both a thief, as well as a warrior/swordmaster type.<p/>Metallics are Games Workshop. Everything
+                        else is painted with Applebarrel and Delta Ceramcoat paints.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161226&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=161226&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Reaper 2525 - Alaine, Female Paladin</b> (Reaper-2725AlaineFemalePaladin-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 297 times.</i><br>
+                        My fiancee picked this one out as her character in Earthdawn - a Dinganni Warrior. She's mostly metallics so wasn't too hard.
+                        The sword was painted to look like cracked ice on the gaming table.  It's a little abrupt this close up, but does look better
+                        in person.  The armor is Boltgun Metal + Black to darken with Tin Bitz + Shining Gold trim.  The hilt of the sword is Shining
+                        Gold.  <p/>I'm planning on changing the back part of her cloth skirt, but haven't decided on what to do with it yet.  Maybe
+                        a stormy pattern since she's wearing the Storm Armor in-game.<p/>Flesh done in Vallejo Model Color. Metallics in Games Workshop
+                        paints. Everything else done with Applebarrel and Delta Ceramcoat.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159922&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=159922&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCellAlternate"><b>Reaper 2751 - Stone Golem</b> (Reaper-2751StoneGolem-Dankel.jpg) by Dave Dankel<br><i>This file was uploaded by Dave Dankel and has been viewed 282 times.</i><br>
+                        Another mini painted up as an obsidiman.  This golem is larger than standard 25mm figures - it's a little taller then the
+                        Heartbreaker Sky Raider.  I did a better job highlighting the stone before I speckled it than with the Chainmail Stonechild,
+                        so the cracks and crags stand out much better on this one.  You can see a lot of imperfections sculpted on the leather skirt.
+                        This figure's supposed to be completely stone, but I wanted an obdidiman instead of a golem so I painted it as leather.  This
+                        miniature served as the Obisidiman Wizard in our party before the player decided he wanted to play something else.<p/>Painted
+                        with Applebarrel and Delta Ceramcoat paints.
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCellAlternate"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169121&amp;type=full" target="_blank"><img src="http://www.earthdawn-classic.com/gallery/view.html;jsessionid=alBisLNnnwo7?id=169121&amp;type=thumbnail" border="0"></a></td>
+                     <td width="75%" valign="top" class="TableCell"><b>Theran Mage</b> (TheranMage.jpg) by Lars Gottlieb<br><i>This file was uploaded by Lars Gottlieb and has been viewed 299 times.</i><br>
+                        This one's been used for a variety of Theran mages, including Hefera the heavenherder. <br/>I use minis with a roman legionnaire
+                        look for my therans; this one's a GW Inquisitor with a sword instead of his boltgun
+                        
+                     </td>
+                     <td width="10%" nowrap valign="top" class="TableCell"></td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3">
+                        <hr>
+                     </td>
+                  </tr>
+               </table>
+               
+               
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

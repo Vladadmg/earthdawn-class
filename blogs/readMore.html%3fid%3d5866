@@ -1,0 +1,175 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">5 active users, 0 users, 5 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">65075 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="left" class="TableCellHeading">Concatenation Continuum</td>
+                  </tr>
+                  <tr>
+                     <td width="100%" class="TableCellHeading">
+                        <p align="right"><i>By James Flowers,
+                              6 June 2004</i></p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" align="left" class="TableCell">Continuing work on getting the Player's Compendium ready for playtest. It's still amazing to me how what I thought would be
+                        a straight-forward task has turned into a major one. When we looked at the Earthdawn products, our first thought was "compile
+                        this into fewer volumes." That, we thought, would be a simple job. Take what FASA had already published in a number of supplements,
+                        compile the content into a logical sequence, freshen up the content with FAQ and errata, and voila! Alas no, this has proved
+                        to be not so easy.
+                        
+                        
+                        <p>On the <a href="http://earthdawn.werg.net/modules.php?name=Forums&amp;file=viewtopic&amp;t=254" target="_blank">WERG forums</a>, what seems a long tme ago now, I posted a dissertation (read: a rant) about our design "sacred cows" -- some of the things
+                           that we wanted to achieve with the FASA-produced material. At the time this seemed like a noble ideal. And it still is --
+                           in principle, anyway.
+                        </p>
+                        
+                        
+                        <p>The main issue we have struck to date is not that of compiling existing content. Nor the sheer volume of content to deal with
+                           (remembering we're playing with 7 years of FASA content here). The biggest problem to date has been to ensure that things
+                           are presented "consistently," and that has meant looking at the wording of virtually everything and making sure it matches
+                           up with both the intent of the original writer and that of comparable mechanics. As I write this blog entry, I am wading through
+                           the spell descriptions in the Player's Compendium. A quick count ... there are 473 spells in the draft Player's Compendium
+                           at the moment, spread over the four primary magical Disciplines. One thing that strikes me is that there must have been a
+                           number of different authors working on these spells; something I had never considered in 10 years of Earthdawn gaming was
+                           consistency of spell effects. For some reason, it never came up in my games. But with a writer's (and editor's) critical eye,
+                           there's a lot of differences in what is presented.
+                        </p>
+                        
+                        
+                        <p>Let's hark back to the Earthdawn Classic ideas. You've all read the forum thread on WERG about sacred cows? Excellent! Moo!
+                           Let's continue. We are really very keen to take what FASA has produced and compile it into a comprehensive whole. And a major
+                           component of this is ensuring we keep as close as possible to what we think (and with people like Lou Prosperi's assistance,
+                           we're pretty sure) FASA would have liked to have done if they had revised what was already out in print. That means backwards
+                           compatibility with existing material, but ensuring we put some hooks in place now to incorporate add-ins further on that will
+                           add to the game line as a whole and take it in newer directions. It is, after all, a flexible game system.
+                        </p>
+                        
+                        
+                        <p>So we've compiled a huge quantity of textual content. Now we're working to massage this content, bringing our own touch to
+                           the game, and incorporating the feedback and comments from a number of people who have been actively involved with the game
+                           since it's release. Once we're past this phase, we will move the drafts out to the playtesters. Their job is extremely valuable,
+                           and I suspect some of them may not be aware of how hard they are going to be pushed for feedback and comments.
+                        </p>
+                        
+                        
+                        <p>I'm still not sure what sort of commentary you would all like me to post on these blogs, so please do take the time to leave
+                           me some comments. Otherwise, I'll cut this short and blog on another time. A parting comment: currently, the Player's Compendium
+                           draft is 386 pages without graphics or an index. We projected a book probably around 450 pages, so this is looking to be the
+                           case. Back to the keyboard!
+                        </p>
+                        
+                        
+                        <p>Take kaer, J;)</p>
+                     </td>
+                  </tr>
+                  <td width="100%" align="right" class="TableCellSmall"><a href="/blogs/checkShow.html">Back to blog</a></td>
+               </table><br>
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="center" type="TableCellHeading">Comments</td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="40%" class="TableCellHeading">Subject</td>
+                     <td width="22%" class="TableCellHeading">Author</td>
+                     <td width="13%" class="TableCellHeading">When Posted</td>
+                     <td width="13%" align="center" class="TableCellHeading">Messages</td>
+                     <td width="10%" class="TableCellHeading"></td>
+                  </tr>
+               </table>
+               
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

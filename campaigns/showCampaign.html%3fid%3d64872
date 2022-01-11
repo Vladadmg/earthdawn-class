@@ -1,0 +1,152 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">10 active users, 0 users, 10 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">57254 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td>
+                        <h1>Campaign The Barsaive Irregulars</h1><br></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"><i>a quest concerning the murder of dragons, an ancient elven curse that affects the queen &amp;amp;amp;amp;amp;amp; her long lost
+                              children, and a sword, once royalty, hell bent on ending its own bloodline.</i></span></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"></span></td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="20%" valign="top" class="TableCellHeading">Journals</td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCellHeading">
+                        Selected Journal Entries
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="20%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 There are no journals.
+                                 
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellHeading">Cast</td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 <ul>
+                                    <li><b>Branwyn</b> - An Elven Archer, torn between a love of her people and a morbid fascination with the blood elves.  haunted by a deep guilt
+                                       and regret she has yet to begin to face.
+                                    </li>
+                                    <li><b>Ce'Lyndia</b> - A Blood Elf Troubadour whos recent transformation from an elf has left her personality shattered and the rest of the Barsavian
+                                       Irregulars not quite able to trust her.
+                                    </li>
+                                    <li><b>Grak</b> - A Dwarven Illusionist known for his surly attitude, disregard for authority and deep comittment to his companions.
+                                    </li>
+                                    <li><b>Grumph</b> - A dwarven Weaponsmith that has just recently joined Barsaives Irregulars, obsessive with protecting his horse and pony investments.
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCell">There are no campaign entries for this journal.</td>
+                  </tr>
+               </table>
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

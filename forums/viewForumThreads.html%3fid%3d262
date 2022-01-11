@@ -1,0 +1,646 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">11 active users, 7 users, 4 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">57833 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="60%" class="TableCellHeading">For Gamemasters</td>
+                     <td width="40%" class="TableCellHeading"></td>
+                  </tr>
+                  <tr>
+                     <td width="60%" class="TableCell"><i>Discussion on gamemastering Earthdawn. May contain spoilers so proceed with caution!</i></td>
+                     <td width="40%" class="TableCellSmall"></td>
+                  </tr>
+               </table><br>
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="40%" class="TableCellHeading">Subject</td>
+                     <td width="22%" class="TableCellHeading">Thread Author</td>
+                     <td width="13%" class="TableCellHeading" align="right">Last Post</td>
+                     <td width="7%" class="TableCellHeading" align="right">Count</td>
+                     <td width="16%" nowrap></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1880">
+                           Favorite NPCs         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Te'Dran Lathenel</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">30/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">14<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1880">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=84341">
+                           Races of Barsaive         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Stewart Patience</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">30/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">6<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=84341">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=84076">
+                           Melee Weapons with Reach?         </a></td>
+                     <td width="22%" valign="top" class="TableCell">slayride25</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">29/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=84076">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=81914">
+                           Impossible Deeds         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Rastar</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">27/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=81914">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1511">
+                           Statistically Speaking         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">25/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">15<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1511">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1310">
+                           Dexterity Unblanced?         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Radish</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">24/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">7<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1310">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=71050">
+                           What if ... ?         </a></td>
+                     <td width="22%" valign="top" class="TableCell">tak5haka</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">22/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">8<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=71050">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1252">
+                           Strength Minimum         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">James Flowers</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">19/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">30<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1252">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=74858">
+                           Insane Manical Evil GM laugh!         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Cabor</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">19/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">1<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=74858">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=71229">
+                           An entertaining comment during kaer exploration         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Enril</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">19/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=71229">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=73212">
+                           Range of Social Talents         </a></td>
+                     <td width="22%" valign="top" class="TableCell">slayride25</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">18/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=73212">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=58862">
+                           Help wanted in a new Macro-campaign         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">bayushi_shogo</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">16/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">13<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=58862">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=61853">
+                           where to find the earthdawn CD-ROM?         </a></td>
+                     <td width="22%" valign="top" class="TableCell">hammerpony</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">13/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=61853">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=66449">
+                           formula for success         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Talysian</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">12/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=66449">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=65976">
+                           Release Date         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Kin</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">12/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=65976">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=64373">
+                           OK, Someone Has To Do It...         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">James Flowers</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">11/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=64373">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=53323">
+                           Item Key Knowledges Question         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Rastar</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">11/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">38<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=53323">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=55001">
+                           Interesting web site ...         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">tak5haka</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">11/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">5<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=55001">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1278">
+                           Maps         </a></td>
+                     <td width="22%" valign="top" class="TableCell">tak5haka</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">10/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">11<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1278">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=62419">
+                           On the Leadership Talent in Earthdawn         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">slayride25</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">9/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=62419">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=61401">
+                           about weaving threads to mg. items...         </a></td>
+                     <td width="22%" valign="top" class="TableCell">hammerpony</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">8/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">5<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=61401">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1614">
+                           Talents, what should be restrained, or opened up         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">FrostWalker</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">3/08/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">14<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1614">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=31562">
+                           Detecting a Horror Mark via artisan test on SELF         </a></td>
+                     <td width="22%" valign="top" class="TableCell">loki108</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">3/08/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">4<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=31562">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=50057">
+                           Balancing the Skills         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">slayride25</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">26/07/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">1<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=50057">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1875">
+                           Ristul         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Dammi</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">25/07/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">5<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1875">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=2669">
+                           Faviourate names         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">marnott</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">25/07/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">5<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=2669">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=2578">
+                           Drakes, viable character options?         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Phaide</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">25/07/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">11<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=2578">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1195">
+                           Higher Ground         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">25/07/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">9<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1195">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=46042">
+                           Confidence Booster Potion         </a></td>
+                     <td width="22%" valign="top" class="TableCell">indragnir</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">22/07/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=46042">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1619">
+                           Sky Raider Talents         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Quinn</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">21/07/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">10<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1619">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=43532">
+                           Some inspiration         </a></td>
+                     <td width="22%" valign="top" class="TableCell">tak5haka</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">19/07/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=43532">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1414">
+                           Immobilization spells         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Enril</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">15/07/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">33<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1414">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=32088">
+                           Defense values         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Enril</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">8/07/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">6<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=32088">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=20597">
+                           Dark or Middle Ages?         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">tak5haka</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">20/06/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">5<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=20597">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1556">
+                           T'skrang         </a></td>
+                     <td width="22%" valign="top" class="TableCell">squirrelfang</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">18/06/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">6<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1556">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1592">
+                           Getting ahold of Old Books.         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Talysian</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">18/06/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">6<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1592">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=10260">
+                           Coat of Arms of Thera and Throal         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Warlock</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">12/06/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">4<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=10260">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=7334">
+                           Speaking in Tongues         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">10/06/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">10<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=7334">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=5762">
+                           Sperethiel Dictionary         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Ancient History</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">10/06/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">4<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=5762">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=841">
+                           Best Earthdawn Book?         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">6/06/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">20<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=841">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=2606">
+                           Damages and rule of three         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Damz</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">24/05/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">9<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=2606">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=2501">
+                           Speeding up combat         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Bjorn</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">21/05/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">12<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=2501">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=2542">
+                           Next Circle is a long way         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">6/05/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=2542">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1003">
+                           Peasants are Revolting (Don't Look at Them Then)         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">6/05/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">10<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1003">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1036">
+                           Over arching plot lines         </a></td>
+                     <td width="22%" valign="top" class="TableCell">GeneWyrm</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">5/05/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">7<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1036">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=987">
+                           Full Power Horrors         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">28/04/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">34<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=987">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1835">
+                           Powerful Race/Discipline combinations in combat         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Dammi</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">27/04/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">17<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1835">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1945">
+                           Horrors &amp; Adepts - A Battle Of WIll         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Te'Dran Lathenel</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">20/04/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1945">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=942">
+                           Every picture says a 1000 words         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">16/04/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">20<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=942">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1862">
+                           The Ancient Files: Blood Magic         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Ancient History</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">14/04/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1862">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1795">
+                           Talents as skills         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Bjorn</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">8/04/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">13<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1795">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1206">
+                           How Do You Define A Round?         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">James Flowers</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">8/04/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">31<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1206">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1755">
+                           Costs of Living         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Quinn</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">4/04/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">7<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1755">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1658">
+                           Skills  -- how could they be more useful?         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Rastar</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">1/04/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">16<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1658">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1640">
+                           Thread Magic / Magic Item questions         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Bjorn</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">31/03/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">19<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1640">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=264">
+                           Welcome!         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">James Flowers</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">30/03/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">17<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=264">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=897">
+                           Biggest Disappointment         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">30/03/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">30<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=897">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1603">
+                           Pulled in two directions         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">slayride25</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">25/03/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">13<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1603">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1634">
+                           Reworked Beastmaster Talents         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Quinn</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">23/03/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">4<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1634">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=912">
+                           Statistics?         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Evilgaz</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">20/03/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">31<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=912">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1085">
+                           Social interaction         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Sundahk</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">17/03/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">23<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1085">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1342">
+                           About spells         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Excelvior</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">24/02/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">18<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1342">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1436">
+                           Buying Magic Weapons vs. "Making" Them         </a></td>
+                     <td width="22%" valign="top" class="TableCell">docmidnite</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">21/02/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">5<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1436">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1355">
+                           Advise on getting started         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">NightWind</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">11/02/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">8<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1355">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1050">
+                           Putting together a game session         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Shrokail</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">5/02/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">4<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1050">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=345">
+                           Memorable Moments from Behind the Screen...         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Kaer_Timora</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">10/01/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">21<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=345">Read</a></td>
+                  </tr>
+               </table>
+               
+               
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

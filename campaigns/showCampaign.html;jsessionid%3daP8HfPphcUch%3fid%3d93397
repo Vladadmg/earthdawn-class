@@ -1,0 +1,479 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=aP8HfPphcUch', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=aP8HfPphcUch', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=aP8HfPphcUch', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=aP8HfPphcUch', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=aP8HfPphcUch';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=aP8HfPphcUch';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=aP8HfPphcUch';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=aP8HfPphcUch';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=aP8HfPphcUch';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=aP8HfPphcUch';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=aP8HfPphcUch';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=aP8HfPphcUch';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=aP8HfPphcUch';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=aP8HfPphcUch';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=aP8HfPphcUch';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=aP8HfPphcUch';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=aP8HfPphcUch';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=aP8HfPphcUch';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aP8HfPphcUch">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aP8HfPphcUch">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/windling.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aP8HfPphcUch">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           12 total users, 2 logged in users, 10 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114781 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com/simple_shopping/shop.html" class="imglink"><img src="/adverts/minis-advert.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td>
+                        <h1>Campaign Sins of the Past</h1><br></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"><i>A campaign set in Tesrae Meraerthim which is located in the land located between the Caucavic and Serpent Rivers north of
+                              Lalai Gorge.  It is built on the Eastern side of the woods in the northeastern most corner of the woods.  The characters are
+                              of unknown or obscured ancestry.  Cults of Vestrial, horrors, and tainted tribes abound.  In addition political machinations
+                              which will affect the fate of Barsaive are at the center of the campaign setting.  Naturally the heroes of this story will
+                              have a hand in all of this.</i></span></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"></span></td>
+                  </tr>
+               </table>
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="20%" valign="top" class="TableCellHeading">Journals</td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCellHeading">
+                        Selected Journal Entries
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="20%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                       <td width="100%" class="TableCellSelected"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=99722">First Steps to Glory 10th of Strassa 1506 TH</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=93487">Setting Part 1</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCell"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=94283">Setting Part 2</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=94371">Setting Part 3</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCell"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=94390">Setting Part 4</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=94400">Setting Part 5</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCell"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=94536">Setting Part 6</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=94558">Setting Part 7</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCell"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=93397&amp;journalId=93459">Tesrae Meraerthim</a><br></td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellHeading">Cast</td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 <ul>
+                                    <li><b>Assorted NPC's</b> - Assorted NPC's
+                                    </li>
+                                    <li><b>GM</b> - GM
+                                    </li>
+                                    <li><b>Jyn</b> - Age: 19, Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                    <li><b>Ur'ktsk</b> - Age: 15 Hair: Black, Eyes: Emerald, Height: 9'0", Weight: 755 lbs., Sex: Male, Race: Troll (Dragon Kin)
+                                    </li>
+                                    <li><b>Verilus</b> - Age: 19 Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 <h2>Journal First Steps to Glory 10th of Strassa 1506 TH</h2>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><i>Verilus having recently graduated from the Academy of War and being the first in his class as he is quick to point out, is
+                                    eager to prove himself.&lt;br/&gt;Urkutsk is tired of pumping bellows for his foster father Barak, would rather be running around
+                                    the woods with his assorted woodland companions. So Verilus' decision to become a caravan guide seems like a good idea to
+                                    him.</i></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of 10th of Strassa 1506 TH</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 1149,
+                                 Entry created on September 10, 2004 1:37 PM,
+                                 Last updated on September 10, 2004 1:37 PM
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>GM</b> - GM
+                                    </li>
+                                    <li><b>Ur'ktsk</b> - Age: 15 Hair: Black, Eyes: Emerald, Height: 9'0", Weight: 755 lbs., Sex: Male, Race: Troll (Dragon Kin)
+                                    </li>
+                                    <li><b>Verilus</b> - Age: 19, Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 240 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>GM Overview</b><br>
+                                 As written by GM on October 12, 2004 3:45 AM
+                                 <p></p>
+                                 Ur'ktsk and Verilus offer their services to the town as elemental earth caravan guards.  A somewhat dangerous assignment seeing
+                                 as how these shipments have been getting raided on a regular basis for the past five months.  Expecting trouble they are particularly
+                                 vigilant, and are fortunate enough to spot an ambush site.  Quietly alerting the rest of the caravan, they drop back in the
+                                 caravna and then seek to flank the enemy.  Successfully sneaking up on the ambush site they ambush the ambushers.  At this
+                                 point in time the caravan guards, alerted by the sound of battle take this as their cue to charge.  The whole affair is quickly
+                                 done with.  A hard one battle in which Verilus did quite well.  This added to his cockiness and would lead to much pain later
+                                 on.   The ambushers shared a strange tattoo in common.  Upon returning to Tesrae Meraerthim Verilus and Ur'ktsk were congratulated
+                                 and honored with a commission to ferret out any conspirators within the town and end the threat of these raids.
+                                 <br></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of First Steps to Glory 15th of Strassa 1506 TH</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 950,
+                                 Entry created on October 28, 2004 2:27 PM,
+                                 Last updated on October 29, 2004 11:07 AM
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>GM</b> - GM
+                                    </li>
+                                    <li><b>Jyn</b> - Age: 19, Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                    <li><b>Ur'ktsk</b> - Age: 15 Hair: Black, Eyes: Emerald, Height: 9'0", Weight: 755 lbs., Sex: Male, Race: Troll (Dragon Kin)
+                                    </li>
+                                    <li><b>Verilus</b> - Age: 19 Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>GM Overview</b><br>
+                                 As written by GM on October 28, 2004 2:28 PM
+                                 <p></p>
+                                 Having returned to town and receiving a commission to uncover traitors, our intrepid heroes decide to start doing some research.
+                                 Verilus promptly chooses the duty assignment of interrogating ladies of the night in the hopes that one of their patrons had
+                                 mumbled something in their sleep.  Needless to say Verilus spent, much money and enjoyed this end of the research most thoroughly.
+                                 Urkutsk desided to do somewhat more scholarly research into the possible origins of the tattoo the raiders had in common.
+                                 Speaking to the curator of the library/museum he discovered that it might have something to do with the passions.  Following
+                                 a logical progression he proceeded to the Shrine of Mynbruje and spoke to one of the Questors.  The tattoo clearly had something
+                                 to do with the mad passion Vestrial.  On his way to find Verilus he ran into Jyn (Verilus Twin Brother), who had just recently
+                                 returned from his training abroad.  The two of them found Verilus and formulated a plan.
+                                 <br></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of First Step to Glory 16th of Strassa 1506 TH</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 948,
+                                 Entry created on October 28, 2004 2:37 PM,
+                                 Last updated on October 29, 2004 11:07 AM
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>GM</b> - GM
+                                    </li>
+                                    <li><b>Jyn</b> - Age: 19, Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                    <li><b>Ur'ktsk</b> - Age: 15 Hair: Black, Eyes: Emerald, Height: 9'0", Weight: 755 lbs., Sex: Male, Race: Troll (Dragon Kin)
+                                    </li>
+                                    <li><b>Verilus</b> - Age: 19 Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>GM Overview</b><br>
+                                 As written by GM on October 28, 2004 2:38 PM
+                                 <p></p>
+                                 Having formulated a plan to follow the raiders they shadow a sacrificial caravan, and then track the raiders back to their
+                                 home ground.  Intercepting a messenger pigeon they are bestowed with the good fortune of a written message from the conspirator.
+                                 Forging a new letter they gove a false time and date for the next caravan.  At this point they decide that three adepts against
+                                 a whole camp of zealous fanatics would not be wise.  Returning to town they meet with Barak and the Lord.  Kerym grants them
+                                 further powers in order to pursue the investigation.  Jyn and Verilus as usual bicker somewhat in a friendly brother sort
+                                 of way.  Contributing to the conversation they and Urkutsk discover that only 20 people have access to caravan information.
+                                 Battle is their forte and the convoluted mess of namegivers minds seems to be Urkutsk strength.  Our beastmaster decides that
+                                 the bureau of taxation might be the best place to compare handwriting.  They eventually discover that the handwriting matches
+                                 that on the tax form of Tyvis Rhee a member of the Council of Elders.  Not jumping the gun they conduct an investigation into
+                                 who might fill out his tax forms.
+                                 <br></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of First Steps to Glory 17th of Strassa 1506 TH</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 946,
+                                 Entry created on October 28, 2004 2:50 PM,
+                                 Last updated on October 28, 2004 2:51 PM
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>GM</b> - GM
+                                    </li>
+                                    <li><b>Jyn</b> - Age: 19, Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                    <li><b>Ur'ktsk</b> - Age: 15 Hair: Black, Eyes: Emerald, Height: 9'0", Weight: 755 lbs., Sex: Male, Race: Troll (Dragon Kin)
+                                    </li>
+                                    <li><b>Verilus</b> - Age: 19 Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>GM Overview</b><br>
+                                 As written by GM on October 28, 2004 2:58 PM
+                                 <p></p>
+                                 Conducting a deeper investigation into Councilman Rhee they discover that the handwriting is actually that of his daughter.
+                                 Grabbing a full company of the twons military they encircle the house and in a lightning raid arrest his daughter, and detain
+                                 Tyvis Rhee.  Spiriting them to the Cuncil Chambers it is determined that a trial shall be conducted the following day.  Placing
+                                 the daugfhter under arrest and her father under house arrest.  Tyvis Rhee absconds in the middle of the night.  The next day
+                                 in trial it is determined that Ms. Rhee was innocent.  Despite the tattoo on her neck.  Apparently her father had forged all
+                                 the notes with her handwriting and had tattooed her when she was a very young child.  With her new found hate for her father
+                                 she vows that all her resources were at the disposal of the party in regards hunting her father down and killing him like
+                                 the dog he is.
+                                 <br></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of First Steps to Glory 19th of Strassa 1506 TH</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 943,
+                                 Entry created on October 28, 2004 3:09 PM,
+                                 Last updated on October 28, 2004 3:09 PM
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>GM</b> - GM
+                                    </li>
+                                    <li><b>Jyn</b> - Age: 19, Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                    <li><b>Ur'ktsk</b> - Age: 15 Hair: Black, Eyes: Emerald, Height: 9'0", Weight: 755 lbs., Sex: Male, Race: Troll (Dragon Kin)
+                                    </li>
+                                    <li><b>Verilus</b> - Age: 19 Hair: Silver, Eyes: Crimson, Height: 6'5", Weight: 225 lbs., Sex: Male, Race: Great Elf (Dragon Kin)
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>GM Overview</b><br>
+                                 As written by GM on October 28, 2004 3:09 PM
+                                 <p></p>
+                                 The players escort the 1st and 2nd Infantry Company to the site of the raiders camp.  Along the way they defeat a raging Wyvern
+                                 with some assistance from their detail.  Choosing the harder route the places climb through the valleys and mountains  surrounding
+                                 their camp.  The 2nd Company launches a frontal assault as the 1st charges down the hills from behind.  The raiders are slaughtered
+                                 and much booty is garnished.  Returning to town the players are rewarded with a parade and titles as the Champions of Tesrae
+                                 Meraerthim.  They are now a public relations asset for the town, and hold great favor with Lord Kerym.
+                                 <br></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+               </table>
+               
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

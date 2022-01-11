@@ -1,0 +1,152 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">7 active users, 0 users, 7 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">41877 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="80%"><span class="Heading">Download group: Free Stuff</span><br></td>
+                     <td width="20%" nowrap><a href="/downloads/watchFile.html?id=2442">Watch Group</a><br><a href="/downloads/unwatchFile.html?id=2442">Unwatch Group</a></td>
+                  </tr>
+               </table>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="40%" class="TableCellHeading">Name</td>
+                     <td width="20%" class="TableCellHeading">Uploaded By</td>
+                     <td width="10%" class="TableCellHeading"># Of Downloads</td>
+                     <td width="10%" class="TableCellHeading">When Uploaded</td>
+                     <td width="10%" class="TableCellHeading">File Size</td>
+                     <td width="10%" nowrap class="TableCellHeading"></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/downloads/download.html?id=2489">downtime_activity_worksheet_a4.zip</a><br>Downtime Activity Worksheet (2004.05; A4 format; ZIPped PDF; 1.12MB). For use with the Earthdawn Downtime System. Provided
+                        with a printer-friendly version to minimize ink/toner consumption. Requires Adobe Acrobat Reader 5.0 or higher to read.
+                     </td>
+                     <td width="20%" valign="top" class="TableCell">James Flowers</td>
+                     <td width="10%" valign="top" class="TableCell">128</td>
+                     <td width="10%" valign="top" class="TableCell">3/05/04 21:40</td>
+                     <td width="10%" valign="top" class="TableCell">1182707</td>
+                     <td width="10%" valign="top" nowrap class="TableCellSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/downloads/download.html?id=2490">downtime_activity_worksheet_letter.zip</a><br>Downtime Activity Worksheet (2004.05; US Letter format; ZIPped PDF; 1.16MB). For use with the Earthdawn Downtime System. Provided
+                        with a printer-friendly version to minimize ink/toner consumption. Requires Adobe Acrobat Reader 5.0 or higher to read.
+                     </td>
+                     <td width="20%" valign="top" class="TableCellAlternate">James Flowers</td>
+                     <td width="10%" valign="top" class="TableCellAlternate">73</td>
+                     <td width="10%" valign="top" class="TableCellAlternate">3/05/04 21:42</td>
+                     <td width="10%" valign="top" class="TableCellAlternate">1224588</td>
+                     <td width="10%" valign="top" nowrap class="TableCellAlternateSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/downloads/download.html?id=2443">edc_character_record_sheet_a4.zip</a><br>Earthdawn Classic Character Record Sheet (2004.05; A4 format; ZIPped PDF; 1.44MB). Provided with a printer-friendly version
+                        to minimize ink/toner consumption. Requires Adobe Acrobat Reader 5.0 or higher to read.
+                     </td>
+                     <td width="20%" valign="top" class="TableCell">James Flowers</td>
+                     <td width="10%" valign="top" class="TableCell">233</td>
+                     <td width="10%" valign="top" class="TableCell">3/05/04 19:57</td>
+                     <td width="10%" valign="top" class="TableCell">1518995</td>
+                     <td width="10%" valign="top" nowrap class="TableCellSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/downloads/download.html?id=2444">edc_character_record_sheet_letter.zip</a><br>Earthdawn Classic Character Record Sheet (2004.05; US Letter format; ZIPped PDF; 1.44MB). Provided with a printer-friendly
+                        version to minimize ink/toner consumption. Requires Adobe Acrobat Reader 5.0 or higher to read.
+                     </td>
+                     <td width="20%" valign="top" class="TableCellAlternate">James Flowers</td>
+                     <td width="10%" valign="top" class="TableCellAlternate">92</td>
+                     <td width="10%" valign="top" class="TableCellAlternate">3/05/04 19:59</td>
+                     <td width="10%" valign="top" class="TableCellAlternate">1512420</td>
+                     <td width="10%" valign="top" nowrap class="TableCellAlternateSmall"></td>
+                  </tr>
+               </table>
+               
+               
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

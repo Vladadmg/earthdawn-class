@@ -1,0 +1,206 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">12 active users, 6 users, 6 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">57835 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="60%" class="TableCellHeading">Product Development</td>
+                     <td width="40%" class="TableCellHeading"></td>
+                  </tr>
+                  <tr>
+                     <td width="60%" class="TableCell"><i>General questions relating to product development, submissions/playtesters guide, etc.</i></td>
+                     <td width="40%" class="TableCellSmall"></td>
+                  </tr>
+               </table><br>
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="40%" class="TableCellHeading">Subject</td>
+                     <td width="22%" class="TableCellHeading">Thread Author</td>
+                     <td width="13%" class="TableCellHeading" align="right">Last Post</td>
+                     <td width="7%" class="TableCellHeading" align="right">Count</td>
+                     <td width="16%" nowrap></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=673">
+                           Informal poll -- GM Screen         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Mataxes</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">25/07/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">18<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=673">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=19891">
+                           Earthdawn wishlist Number 1         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">slayride25</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">23/06/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">4<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=19891">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=12928">
+                           Translation         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Maxi</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">12/06/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">4<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=12928">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1482">
+                           Release Dates?         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">memorax</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">3/05/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">7<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1482">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1680">
+                           mailed art submissions         </a></td>
+                     <td width="22%" valign="top" class="TableCell">loki108</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">28/04/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">6<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1680">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=1476">
+                           earthdawn calendar         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Saria</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">22/02/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=1476">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=1402">
+                           Just a helpful tip - I'm sure you know this...         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Shrokail</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">13/02/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">2<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=1402">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=803">
+                           Character Dossier         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">Storm Crystalfist</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">13/01/04</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=803">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=794">
+                           Metaplot         </a></td>
+                     <td width="22%" valign="top" class="TableCell">tak5haka</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">13/01/04</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">3<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=794">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCellAlternate"><a href="/forums/readThread.html?id=460">
+                           Questions pertaining to playtesting         </a></td>
+                     <td width="22%" valign="top" class="TableCellAlternate">dropshadow</td>
+                     <td width="13%" valign="top" class="TableCellAlternate" align="right">30/12/03</td>
+                     <td width="7%" valign="top" class="TableCellAlternate" align="right">6<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellAlternateSmall"><a href="/forums/readThread.html?id=460">Read</a></td>
+                  </tr>
+                  <tr>
+                     <td width="40%" valign="top" class="TableCell"><a href="/forums/readThread.html?id=486">
+                           Clarification of Playtesting         </a></td>
+                     <td width="22%" valign="top" class="TableCell">Richard Vowles</td>
+                     <td width="13%" valign="top" class="TableCell" align="right">29/12/03</td>
+                     <td width="7%" valign="top" class="TableCell" align="right">1<img src="/images/spacer.gif"></td>
+                     <td width="16%" valign="top" nowrap class="TableCellSmall"><a href="/forums/readThread.html?id=486">Read</a></td>
+                  </tr>
+               </table>
+               
+               
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

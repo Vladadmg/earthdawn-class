@@ -1,0 +1,248 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">8 active users, 0 users, 8 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">57252 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td>
+                        <h1>Campaign N'riahn's Misadventures</h1><br></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"><i>Speaking out of character, I am Umat Blackfeather, new member of the the EDC community.  After a long hiatus, my friends and
+                              I have rediscovered Earthdawn and our gaming sessions have resumed.  I thought it would be great to record these experiences
+                              here on EDC so other Earthdawn fans can share the laughs with us.  The following journal entries belong to N'riahn (pronounced
+                              EN-ree-un), Human Elementalist and professional victim.</i></span></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"></span></td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="20%" valign="top" class="TableCellHeading">Journals</td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCellHeading">
+                        Selected Journal Entries
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="20%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                       <td width="100%" class="TableCellSelected"><a href="/campaigns/showCampaign.html?id=49888&amp;journalId=50856">01. My humble beginnings...</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCellAlternate"><a href="/campaigns/showCampaign.html?id=49888&amp;journalId=50908">02. The glorious Peaks</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCell"><a href="/campaigns/showCampaign.html?id=49888&amp;journalId=50953">03. The path to Ogek...</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCellAlternate"><a href="/campaigns/showCampaign.html?id=49888&amp;journalId=62125">04. Ogek at last!</a><br></td>
+                                    </tr>
+                                    <tr>
+                                       <td width="100%" class="TableCell"><a href="/campaigns/showCampaign.html?id=49888&amp;journalId=69360">05. Ogek: day 2</a><br></td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellHeading">Cast</td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 <ul>
+                                    <li>Go'Ruk Stonetooth - Troll Air Sailor</li>
+                                    <li><b>N'riahn the Stout</b> - Human Elementalist
+                                    </li>
+                                    <li><b>Rithrawyn Escalanas</b> - Blood Elf Woodsman
+                                    </li>
+                                    <li><b>Tyree Lev</b> - Elven Archer
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 <h2>Journal 01. My humble beginnings...</h2>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><i>Well, when and where I came from may be a good way to start this whole journal, though my start is as shifty as my being....</i></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of The beginning...</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 153,
+                                 Entry created on 27 July 2004 06:54,
+                                 Last updated on 27 July 2004 06:54
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>N'riahn the Stout</b> - Human Elementalist
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>From the bland city of Blaan to the Shores of FIre...</b><br>
+                                 As written by N'riahn the Stout on 27 July 2004 06:54
+                                 <p></p>Somewhere between the Jerris and the Mist Swamps, as vague a geographical location as it may be, is the unexciting village
+                                 of Blaan.  Sporting all manner of goods and services and being located right on a major trade route, though a promising start,
+                                 did not mean people would stay in Blaan.  Only when forced to stay by heavy rains did trade caravans stay in town, and took
+                                 advantage of the local Smithy, the Tavern, and the Brothel.
+                                 <p></p>It was on such a night that I was conceived.
+                                 <p></p>That's right:  My mother was a prostitute, and my father was a traveller I will never meet.  Perhaps the rains that forced
+                                 my conception we're an omen from the Elements, along with my persistent meddling with puddles of mud, the nearby Mists, and
+                                 other local natural phenomenon.
+                                 <p></p>Regardless, I was discovered by a travelling dwarf who tackled the way of the Elementalist, and took me to the Death's Sea
+                                 where my training would commence.  My only loss was Nana, a local widow in Blaan who took the job of raising me while my mother
+                                 continued her nocturnal exploits.
+                                 <p></p>Her parting gift to me, a yellow, silken scarf, would become my grimoire.<br></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of Training done...to the Twilight Peaks!</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 148,
+                                 Entry created on 27 July 2004 06:55,
+                                 Last updated on 27 July 2004 06:55
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>N'riahn the Stout</b> - Human Elementalist
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>Enough with Fire!</b><br>
+                                 As written by N'riahn the Stout on 27 July 2004 06:56
+                                 <p></p>My training at the Sea took place during an arduous 6 months, where many lessons were quickly learned.  I had mastered a few
+                                 spells and was a welcome addition to the several crews that went Fire Elemental mining.
+                                 <p></p>Though too inexperienced to actually assist in Fire Gathering, I would help the crew where I could with Air Armour, Resist
+                                 Fire, Heal Food, and other spells being cast when required.  It was also interesting to hear the first-hand account of near-death
+                                 experiences, wonderous sights, and tales of the province I will evenutally discover for myself.
+                                 <p></p>There was one point of tension during all this majesty: my teacher.  The dwarf, who shall remain nameless, is a Specialist
+                                 Elementalist who's focus was mainly on the Element of Fire.  Though no animosity existed, I felt pressured to pursue the same
+                                 path, and felt leaving the Sea would be the best way for me to know what my path trully is; after all, Fire was the only Element
+                                 I knew.
+                                 <p></p>Though hesitant, my teacher understood the honesty of my words and sent me to the Twilight Peaks where his friendship with
+                                 the Stonetooth Clan would buy me passage with the Trolls.  There I would be exposed to the gracefulness and might of Air and
+                                 Earth.
+                                 <p></p>After a week's journey, I arrived...<br></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+               </table>
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

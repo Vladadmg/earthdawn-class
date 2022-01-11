@@ -1,0 +1,147 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">7 active users, 0 users, 7 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">65077 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="left" class="TableCellHeading">Shards trundles along</td>
+                  </tr>
+                  <tr>
+                     <td width="100%" class="TableCellHeading">
+                        <p align="right"><i>By Richard Vowles,
+                              7 June 2004</i></p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" align="left" class="TableCell">I have been working on the Shards project for the last few days. The first attempt I put up required some interesting changes
+                        - I use the Willow font as the main headlining font and Papyrus to announce its name and Georgia for the body text. It didn't
+                        work out so well, so now eveything is Papyrus (headline + title) and Palintino Linotype (James' suggestion) and it looks pretty
+                        good. 
+                        <p></p>
+                        
+                        I also changed the background from the attack on a lonely road to the party looking out across a valley from a lonely ruin.
+                        I don't have the second image in very high resolution and it clearly isn't finally done (its in pencil, Paul who works for
+                        Weta as his day job and is pretty busy has yet to ink it). 
+                        <p></p>
+                        
+                        But I have found it may take a while to get the layout quite right. One other thing we are doing is simple caricatures of
+                        important NPCs for all of our material. The images aren't fantastic quality, but they do convey the essence of an NPC, at
+                        least, I hope :-)
+                        <p></p>
+                        
+                        Thats all for this long Queens Birthday weekend, I am just waiting on some confirmation from James that I got a migration
+                        from 3rd circle Elf Troubadour to 4th circle Human troubadour right before I update the PDF again for those on the Shards
+                        project. Then I need the final art from Paul, and then when it is accepted by James, it goes into the hands of FASA and then
+                        onto the web site for final delivery. Hopefully that will be sooner than a few weeks away!
+                        <p></p>
+                     </td>
+                  </tr>
+                  <td width="100%" align="right" class="TableCellSmall"><a href="/blogs/checkShow.html">Back to blog</a></td>
+               </table><br>
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="center" type="TableCellHeading">Comments</td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="40%" class="TableCellHeading">Subject</td>
+                     <td width="22%" class="TableCellHeading">Author</td>
+                     <td width="13%" class="TableCellHeading">When Posted</td>
+                     <td width="13%" align="center" class="TableCellHeading">Messages</td>
+                     <td width="10%" class="TableCellHeading"></td>
+                  </tr>
+               </table>
+               
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

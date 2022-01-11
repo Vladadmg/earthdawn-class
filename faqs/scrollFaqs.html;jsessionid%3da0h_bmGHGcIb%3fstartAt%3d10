@@ -1,0 +1,490 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=a0h_bmGHGcIb', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=a0h_bmGHGcIb', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=a0h_bmGHGcIb', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=a0h_bmGHGcIb', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=a0h_bmGHGcIb', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=a0h_bmGHGcIb', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=a0h_bmGHGcIb';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=a0h_bmGHGcIb';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=a0h_bmGHGcIb">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=a0h_bmGHGcIb">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/throal.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=a0h_bmGHGcIb">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           18 total users, 0 logged in users, 18 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114272 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com/simple_shopping/shop.html" class="imglink"><img src="/adverts/minis-advert.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               <span xmlns="" class="Heading">Frequently Asked Questions: All FAQs</span><br xmlns=""><table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="60%" align="left" valign="top" class="TableCell"></td>
+                     <td width="40%" align="right" valign="top">
+                        		
+                        		
+                        <form action="http://www.earthdawn-classic.com/faqs/searchFaqs.html;jsessionid=a0h_bmGHGcIb" method="POST" name="searchFaqsForm">		  <span class="Heading"></span><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                              <tr>
+                                 <td class="TableCell" nowrap width="20%"><span class="heavyweight">Search</span></td>
+                                 <td class="TableCell" width="80%"><input type="text" id="search" name="search"><span class="Error"> *</span> <input type="submit" id="btnActionPrefixperform" name="btnActionPrefixperform" value="Go"></td>
+                              </tr>
+                           </table>
+                           		
+                        </form> 	
+                     </td>
+                  </tr>
+               </table>
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 2/9/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           (pg. 260) - So, blood wounds act like other wounds mechanically?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        Yes - except that they don&rsquo;t penalize your Action Tests.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 2/9/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           <span style="color: rgb(255, 0, 0); font-weight: bold;">This applies only to the first version of the eBook (August 2005)!</span><br
+                           />(pg. 49) - When a windling flies and suffers a penalty to his                            Toughness value, does this reduce
+                           his death rating, unconsciousness rating, wound threshold, ect.?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        No, that was a typo. It affects all Dexterity-related characteristics                            only. It will be gone from
+                        the PDF with the next update (along with a couple of other errata we were able to catch); and isn&rsquo;t                
+                        in the print version.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 2/9/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           <span style="font-weight: bold; color: rgb(255, 0, 0);">This applies only to the first version of the eBook (August 2005)!</span><br
+                           />The Temper Self talent requires you to make a Temper Other                            test - how can that be?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        It&rsquo;s a typo - users of that talent are supposed to make                            Temper                          
+                        Self Tests.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 2/9/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           <span style="font-weight: bold; color: rgb(255, 0, 0);">This applies only to the first version of the eBook (August 2005)!</span><br
+                           />Why is there only one Summon Talent? Elementalists summon elemental                            spirits                 
+                           and Nethermancers summon ally spirits - they appear like different talents. How would the                            Summon
+                           talent work if a human learned                            it using Versatility?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        The Summon talent is intended to work akin to Thread Weaving (i.e.                            one talent, but different for
+                        each Discipline). While the Summoning<br />rules are written to reflect this, we forgot                            to update
+                        the Disciplines accordingly. Thus, the following errata apply to the <span style="font-weight: bold;">Player&rsquo;s     
+                        Compendium</span>:<br /><br /><span style="font-weight: bold;">p.97 - Elementalist, Fifth                            Circle:</span><br
+                        />Summon<sup>D</sup> should read Summon (Elemental Spirits)<sup>D</sup><br /><br /><span style="font-weight: bold;">p.110
+                        - Nethermancer, Fifth Circle:</span><br />Summon<sup>D</sup>                            should read Summon (Ally Spirits)<sup>D</sup>
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 2/9/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           <span style="font-weight: bold; color: rgb(255, 0, 0);">This applies only to the first version of the eBook (August 2005)!</span><br
+                           />The First Impression talent seems to be broken. It seems way                            too easy to affect other characters.
+                           And the effect is permanent!
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        Whoops! We intended to align the First Impression talent with the                            Making an Impression mechanics,
+                        making a slightly more powerful version (since First Impression is a First Circle talent and                            also
+                        available as a skill). Unfortunately, it&rsquo;s a bit over-powered as written.<br /><br />Our apologies.                
+                        Here&rsquo;s what we think it should actually look (and work) like. Note: There are no changes to the skill.<br /><br /><span
+                        style="font-weight: bold;">(This replaces the entry in both PDF and printed versions of the EDPC)</span><br /><br /><span
+                        style="font-weight: bold;">FIRST IMPRESSION</span> (EDPC; p. 184)<br /><span style="font-weight: bold;">Step Number</span>:
+                        Rank + Charisma<br /><span style="font-weight: bold;">Action</span>: Yes<br /><span style="font-weight: bold;">Requires Karma</span>:
+                        No<br /><span style="font-weight: bold;">Strain</span>: 0<br /><br />The First Impression                            talent
+                        allows an adept to favorably impress a gamemaster character he has just met for the first time. The adept makes a First  
+                        Impression Test against the target&rsquo;s Social Defense. If the test succeeds, the target character&rsquo;s Attitude improves
+                        towards the adept by one degree, for example, a Neutral character becomes Friendly, an Unfriendly character becomes Neutral,
+                        and so on. On an Excellent result, it improves by two degrees (see the <span style="font-weight: bold;">Gamemastering    
+                        </span>chapter of the <span style="font-weight: bold;">Gamemaster&rsquo;s Compendium</span> for                          
+                        more information on Attitudes and how they work). At the gamemaster&rsquo;s discretion, a Pathetic result worsens the character&rsquo;s
+                        Attitude by one degree. The new Attitude may be changed for better or worse through future interactions, but reverts back
+                        to the original at a rate of one degree per day. Any openly hostile act the adept commits against the impressed character
+                        immediately erases the impression. An adept may only attempt to use the First Impression talent once against a given character.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203973">Earthdawn Gamemaster's Compendium FAQ</a><br>
+                        	      Last Updated By Anunnaki on 1/4/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           Creatures Chapter Errata
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        <span style="font-weight: bold;">Thundra Beast</span> (p. 348): <span style="font-weight: bold;">Knockdown</span>: 12 (not
+                        11). In their description, their weight should be &quot;...5,000 pounds.&quot; (1,000 pounds is kinda light for a rhino with
+                        an attitude.)<br /><br /><span style="font-weight: bold;">Zoak </span>(p. 357): Some changes to this beastie which didn't
+                        make it into the PDF. S/be: <span style="font-weight: bold;">STR</span>: 5; Claws (3): 8; <span style="font-weight: bold;">Knockdown</span>:
+                        5; <span style="font-weight: bold;">Legend Points</span>: 70
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203973">Earthdawn Gamemaster's Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 1/2/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           Horrors Chapter Errata
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        Horrors chapter, p. 438: Text not flowing properly around image.                            Thread Rank Two should have a
+                        reference to: &quot;...Animate Dead (p. 441)...&quot; instead of the annoying p.XX.                            One that the
+                        gremlins slipped in.<br /><br />Horrors chapter, p.439: Thread Rank Four should have a reference                         
+                        to: &quot;...Damage Shift (p. 442)...&quot; instead of another p.XX. The hyperlink gremlin was working overtime.<br /><br
+                        />Note: These are all the XXs I can find that haven&rsquo;t been resolved. Sorry. The gremlin was caught and             
+                        suitably chastised.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 1/2/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           What Circles are included?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        The 15 common Disciplines in the Player&rsquo;s Compendium are completely described up to Circle 15. The &rsquo;missing Circles&rsquo;
+                        from the minor Disciplines were FASA&rsquo;s way to separate them from the common Disciplines, something which most players
+                        with high-Circle characters don&rsquo;t consider as justified (causing many gamemasters to develop the higher Circles on their
+                        own). We think that there are other ways to handle this and plan to develop all Disciplines to Circle 15.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 1/2/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           Are Race-specific Disciplines (from the Denizens books) included in the Player&rsquo;s Compendium?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        No, there was not enough space. These Disciplines will appear in Name-giver&rsquo;s Compendium, which is scheduled for 2006.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 1/2/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           Do the Racial Modifiers change?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        Yes - but only for orks. We removed the Dexterity penalty and adjusted their Movement rate.
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCell" valign="top"><b>Question:</b><br><a href="http://www.earthdawn-classic.com/faqs/selectTopic.html;jsessionid=a0h_bmGHGcIb?id=203974">Earthdawn Players Compendium FAQ</a><br>
+                        	      Last Updated By Dammi on 1/2/06
+                     </td>
+                     <td width="1%" class="TableCell"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCell"><b>
+                           Were the Nethermancer spells powered down?
+                           </b></td>
+                  </tr>
+                  <tr>
+                     <td width="15%" class="TableCellAlternate" valign="top"><b>Answer:</b></td>
+                     <td width="1%" class="TableCellAlternate"><img src="/images/spacer.gif" border="0"></td>
+                     <td width="84%" class="TableCellAlternate">
+                        Yes, they got the same treatment as many other spells and abilities. (Note: These will appear in the print version and the
+                        next PDF update).
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" colspan="3" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+               </table>
+               <center xmlns=""><a href="http://www.earthdawn-classic.com/faqs/scrollFaqs.html;jsessionid=a0h_bmGHGcIb?startAt=0">First</a> <a href="http://www.earthdawn-classic.com/faqs/scrollFaqs.html;jsessionid=a0h_bmGHGcIb?startAt=0">Previous</a> <a href="http://www.earthdawn-classic.com/faqs/scrollFaqs.html;jsessionid=a0h_bmGHGcIb?startAt=20">Next</a> <a href="http://www.earthdawn-classic.com/faqs/scrollFaqs.html;jsessionid=a0h_bmGHGcIb?startAt=67">Last</a></center>
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

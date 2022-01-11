@@ -1,0 +1,478 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=aIh0foJcAZM6', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=aIh0foJcAZM6', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=aIh0foJcAZM6', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=aIh0foJcAZM6', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=aIh0foJcAZM6';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aIh0foJcAZM6">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aIh0foJcAZM6">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/nethermancer.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aIh0foJcAZM6">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           7 total users, 2 logged in users, 5 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114340 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.drivethrurpg.com/catalog/index.php?cPath=256_229_235" class="imglink"><img src="/adverts/DTRPG-Advert.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               
+               
+               <span xmlns="" class="Heading">Project Announcements</span><br xmlns=""><table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td><span class="ItemHeading">Happy New Year 2006!</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 31, 2005 11:38 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        Happy New Year to everyone from New Zealand! GMT+12 has some advantages. *grin* All the best, be well, be safe. TEAM REDBRICK
+                        (PS: Server clock is off. It's 0006 on Jan 1 2006... Woo hoo!)
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">New Freebie!</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 28, 2005 8:43 AM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        Find a new freebie <a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html;jsessionid=amj_DKsQQ17e?id=2442">downloads
+                        -> free stuff</a> folder: <p/><b>SPELL LIBRARY (RBL-502) </b><br/>This file contains handy overviews of all spells contained
+                        in the <b>Player's Compendium</b> for easy reference during game sessions. <i>[PDF~1.69MB] </i>
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Merry Christmas!</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 24, 2005 8:22 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        Richard and I (being in New Zealand) are less than 4 hours away from Christmas midnight cutover. Dammi in Germany is a bit
+                        further away, and Josh in the US has to wait a few hours longer (sorry guys). However, regardless of where and when you are
+                        in the world, just wanting to wish everyone a very Merry Christmas! Hope you all have a fantastic break and we'll see you
+                        on the other side for a short sojourn before the New Year. All the best! TEAM REDBRICK
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">RedBrick Limited Releases the Earthdawn Gamemaster's Compendium!</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 21, 2005 9:11 AM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        Before science, before history, an era of magic existed in our world's dim past. Magic flowed freely, touching every aspect
+                        of the lives of men and women of the Name-giver races. It was an age of heroes, an age of fantastical deeds and mythical stories.
+                        It was the Age of Legend.<p/>In August 2005, <b>Earthdawn</b> was back with a new edition. Roll forward to December 2005.
+                        For the first time since its initial release in 1993, this highly acclaimed fantasy roleplaying game is now available in an
+                        all-encompassing format -- two comprehensive books containing everything required for years of play. The second of these two
+                        books is the <b>Earthdawn Gamemaster's Compendium</b>, featuring:<p/>* Revised and streamlined game mechanics<br/>* Campaign
+                        information on the province of Barsaive<br/>* Over a hundred creatures, dragons, spirits and Horrors, including a system for
+                        creating and customizing your own creatures!<br/>* Guidelines on gamemastering and creating campaigns<br/>* Combines updated
+                        content from over six previously-published supplements into one volume, along with new and optional rules.<p/><b>Earthdawn</b>
+                        is set in a world of high adventure, high magic, and terrible danger. Trolls, dwarfs, elves, orks, and humans live side by
+                        side with exotic races: the lizard-like t'skrang, the small, winged windlings, and the earthen obsidimen. In the Age of Legend,
+                        bold heroes from all across Barsaive band together -- ready to fight for life and freedom against the remaining Horrors and
+                        the oppressive Theran Empire, which seeks to bend the rebellious province again to their yoke. Through noble deeds and sacrifice,
+                        the heroes of the world forge Barsaive's future, arming themselves for their daunting task with powerful magical spells and
+                        treasures.<p/>This rulebook contains all the information gamemasters need to create and run ongoing adventures and campaigns
+                        set in the popular <b>Earthdawn</b> universe.<br/><p/>Earthdawn Gamemaster's Compendium (RBL-101), ISBN 0-9582661-1-5, Hardcover
+                        (524 pages), US$44.95. Visit http://www.earthdawn.com for more information.<p/>The <b>Earthdawn Gamemaster's Compendium</b>
+                        is available in electronic format <b>NOW</b> for US$29.95 from <a href="http://www.drivethrurpg.com/catalog/product_info.php?products_id=3221">DriveThruRPG.com</a>.
+                        The hardcover versions of both books is expected in January 2006. An announcement on print availability can be expected from
+                        <a href="http://www.earthdawn.com">www.earthdawn.com</a> as soon as they are available. This release will be followed by <b>Ardanyan's
+                        Revenge</b> -- an Earthdawn adventure -- in January 2006.<p/>Merry Christmas and Happy New Year to everyone from RedBrick!<p/>PS:
+                        Don't forget <a href="http://www.drivethrurpg.com">DriveThruRPG.com </a> are having a 20% Holiday Sale! Details are on their
+                        home page on how to take advantage of this offer. Applies to all of RedBrick's PDF products so use it while you can!<p/>
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Free Downloads for Christmas!</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 21, 2005 2:11 AM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        To sweeten up the wait until the PDF release of the <b>Gamemaster's Compendium</b> (which will be available shortly on <a
+                        href="http://www.dtrpg.com">dtrpg.com</a>), find a couple of updates in our <a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html;jsessionid=amj_DKsQQ17e?id=2442">downloads
+                        -> free stuff</a> folder, just in time for Christmas: <p/><b>KAER TARDIM (RBL-500) </b><br/>This sneak preview offers you
+                        a taste of the fantastic <b>Earthdawn</b> adventures that await you and your friends. Everything you need to play is provided:
+                        brief descriptions of the world of <b>Earthdawn</b> the rules of the game, descriptions of the characters who take part in
+                        the adventure, and a short adventure called Kaer Tardim. In this story, a group of four adventurers volunteer to enter the
+                        kaer of the village of Tardim to learn how Strathem, the village wizard, was killed, and to rid the kaer of whatever danger
+                        lurks within it. <i>[PDF~14.67MB, erratas and typos fixed]</i><br/><i><b>NOTE:</b> This adventure uses a slimmed down version
+                        of the Earthdawn rules, so some elements of game play in this adventure work differently in the full <b>Earthdawn</b> rules.
+                        </i><p/><b>CHARACTER RECORD SHEETS (RBL-501) </b><br/>This file contains a full set of Character Record Sheets, and a two-page
+                        Character Creation Summary. The Character Record Sheets can be adapted to hold beginning and experienced characters of any
+                        kind and Circle, supporting the use of Adobe Acrobat Forms. <i>[PDF~5.36 MB, erratas and typos fixed]</i> <br/><b>Edit: </b>
+                        Now there is also a plain version available, for easy printing. <i>[PDF~1.39 MB]</i> <b><font color="orange">NEW!</font></b><p/><b>DISCIPLINE
+                        DESIGN (RBL-504)</b> <b><font color="orange">NEW!</font></b><br/>This file contains rules and guidelines allowing you and
+                        your friends to design new Disciplines and talents for your <b>Earthdawn</b> campaign. Also included is a set of alternative
+                        Discipline mechanics, taking the possibilities of character development to a whole new level. Requires the <b>Player's Compendium</b>
+                        to use. <i>[PDF~7.53MB]</i>
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">DriveThruRPG Holiday Sale</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 14, 2005 2:10 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <a href="http://www.DriveThruRPG.com">DriveThruRPG.com</a> are having a 20% off Holiday Sale. Details on the home page of
+                        their <a href="http://www.DriveThruRPG.com">web site</a>. Now is a great time to grab a copy of the Player's Compendium in
+                        PDF!
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Contents, Take Two</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 5, 2005 9:44 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        Because it seemed appropriate, the <b>Contents</b> chapter of the Earthdawn Player's Compendium is now available from the
+                        <a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html;jsessionid=amj_DKsQQ17e?id=2442">Downloads, Free Stuff</a>
+                        folder. Acrobat Reader 6.0 or better to read.
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Free Stuff Redux</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 4, 2005 1:31 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        We took them down a while ago, but promised they would be back. Here they are! Updated <b>Inheritance</b>, <b>Game Concepts</b>,
+                        <b>How It Came To Pass</b>, and <b>Name-giver Races</b> chapters are available from the <a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html;jsessionid=amj_DKsQQ17e?id=2442">Downloads,
+                        Free Stuff</a> folder. They require Acrobat Reader 6.0 or better to read. Enjoy!
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Gamemaster's Compendium (and Other) Content</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           December 1, 2005 6:18 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        Well, just finished working on the last part of the Gamemaster's Compendium. So, to celebrate, we've posted up a preview of
+                        the full Contents as a PDF to the <a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html;jsessionid=amj_DKsQQ17e?id=2442">Downloads,
+                        Free Stuff</a> folder. Now you can see what is going to be in the EGC! Please, any questions about what's in the EGC, post
+                        them up to the Forums! As usual, requires Acrobat Reader 6.0 or better to read. EDIT: Just posted up a revised version of
+                        the Inheritance fiction from the Player's Compendium.
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">November Status Update</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           November 26, 2005 10:43 AM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        Hi everyone,<br/><br/>Well, it has been a while, but here is an update on where things lie. Firstly, the status of the Player's
+                        Compendium hardcover. After some fun wrestling with InDesign CS2, Acrobat and Digital RIP compatabilities, we received the
+                        galley proofs for the hardcover a couple of days ago. And they look great! However... Some other errors have crept into the
+                        printing process and we're going to have to get these straightened out. So I'm afraid we're into another bout of to-ing and
+                        fro-ing with the printer. Hopefully this is something minor which can be resolved quickly. You can have a look at some photos
+                        at the Lore Merchant web site (http://lore-merchant.org). Josh has posted some pictures up, along with a couple of shots of
+                        the problem. Realistically, with the time needed to do another galley run, I don't think we're going to be ready for orders
+                        before Xmas. Hopefully I'm wrong.<br/><br/>In the meantime, we're just finishing up the Gamemaster's Compendium. Index is
+                        underway, which, once complete, means we should have this up in PDF on DriveThruRPG in the next week or so. Coincidentally,
+                        this means that the print version will probably be available at the same time as the Player's Compendium. It wasn't planned
+                        this way, but looks like it's just how things have worked out. The Gamemaster's Compendium is 524 pages.<br/><br/>Richard
+                        has already posted that Miniatures are available from the RedBrick web site. Thanks to those who have ordered early. If the
+                        current lines go well, we will be looking at expanding it with new miniatures. Early days. Personally, I'm looking forward
+                        to getting some time to do some painting. It's been too long... Please note the Merchandise Competition is on. Do leap in
+                        and come up with suggestions. You've got nothing to lose! Also, the EDPT (http://www.edpt.org) is running a Writing Competition.
+                        Details are on that site. We'll post a separate entry reminder here. Prizes are some Earthdawn books, so sharpen your pencils
+                        and get writing!<br/><br/>Other news? Following on from the Gamemaster's Compendium is the adventure supplement Ardanyan's
+                        Revenge, then the Name-giver's Compendium (with completely revised Disciplines, including the Shaman and Horror Stalker).
+                        We've also got the other releases well under way for next year, including the Adventure Compendium and a brand new sourcebook
+                        for Cathay. No firm release dates on these yet. Just letting you know that we're not sitting around here!<br/><br/>Lastly,
+                        we are looking at softcover versions of the books as well (with a lower price point for those who might want a second book
+                        or can't afford the hardcover). Plus there's a bunch of freebies sitting in the wings. And some other stuff which I'll tell
+                        you about later.<br/><br/>OK, back to work! Be well,<br/><br/>JAMES FLOWERS<br/>Product Director, RedBrick Limited<br/>http://www.earthdawn.com
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Merchandise Competition</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           November 22, 2005 1:46 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        Come one! Come all! The new RedBrick Earthdawn Merchandise Competition has begun. This is your opportunity to design the latest
+                        in Earthdawn fashion and influence generations to come!<br/><br/>Details of the competition are <a href="http://www.earthdawn-classic.com/forums/viewForumThreads.html?id=2660">here</a>
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell" align="center"><a href="http://www.earthdawn-classic.com/projects/scrollAnnouncements.html;jsessionid=aIh0foJcAZM6?id=21">Next 10</a>, <a href="http://www.earthdawn-classic.com/projects/scrollAnnouncements.html;jsessionid=aIh0foJcAZM6?id=1">Previous 10</a></td>
+                  </tr>
+               </table>
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

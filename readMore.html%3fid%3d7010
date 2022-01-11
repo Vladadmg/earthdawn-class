@@ -1,0 +1,129 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/edclogo-working.png" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aZhVA3PTtaYa">Login</a>, <a href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aZhVA3PTtaYa">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html;jsessionid=aZhVA3PTtaYa" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html;jsessionid=aZhVA3PTtaYa" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html;jsessionid=aZhVA3PTtaYa" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html;jsessionid=aZhVA3PTtaYa" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html;jsessionid=aZhVA3PTtaYa" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html;jsessionid=aZhVA3PTtaYa" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html;jsessionid=aZhVA3PTtaYa" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html;jsessionid=aZhVA3PTtaYa" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html;jsessionid=aZhVA3PTtaYa" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html;jsessionid=aZhVA3PTtaYa" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html;jsessionid=aZhVA3PTtaYa" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html;jsessionid=aZhVA3PTtaYa" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aZhVA3PTtaYa">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">188 active users, 2 users, 186 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">73670 since 1/4/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="left" class="TableCellHeading">Blogs</td>
+                  </tr>
+                  <tr>
+                     <td width="100%" class="TableCellHeading">
+                        <p align="right"><i>By Richard Vowles,
+                              June 7, 2004</i></p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" align="left" class="TableCell">If you haven't noticed already the syndication mechanism has changed and the blogs have come online. Rather than fill the
+                        news up with "stuff", James and I have decided that it would be more interesting for those who are interested in following
+                        what is actually going on at RedBrick to just post in our blogs.
+                     </td>
+                  </tr>
+                  <td width="100%" align="right" class="TableCellSmall"><a href="http://www.earthdawn-classic.com/checkShow.html;jsessionid=aZhVA3PTtaYa">Back to news items</a></td>
+               </table><br>
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="center" type="TableCellHeading">Comments</td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="40%" class="TableCellHeading">Subject</td>
+                     <td width="22%" class="TableCellHeading">Author</td>
+                     <td width="13%" class="TableCellHeading">When Posted</td>
+                     <td width="13%" align="center" class="TableCellHeading">Messages</td>
+                     <td width="10%" class="TableCellHeading"></td>
+                  </tr>
+               </table>
+               
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

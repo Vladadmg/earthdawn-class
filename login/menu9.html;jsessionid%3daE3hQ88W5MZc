@@ -1,0 +1,453 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu128', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=aE3hQ88W5MZc', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=aE3hQ88W5MZc', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=aE3hQ88W5MZc', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu128', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Mind the Gap', '/cms/mindthegap.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; On Kathy Schad', '/cms/spotlight1.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu141', 'sm:', null, 114);
+addItem('&nbsp; Shards', '/cms/shardssubmissionguidelines.html;jsessionid=aE3hQ88W5MZc', '' ); 
+startMenu('mnu141', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=aE3hQ88W5MZc', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=aE3hQ88W5MZc', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=aE3hQ88W5MZc';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=aE3hQ88W5MZc';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aE3hQ88W5MZc">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aE3hQ88W5MZc">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/nethermancer.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aSIt9cySGZ--?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aE3hQ88W5MZc">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           10 total users, 1 logged in users, 9 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           120568 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://earthdawn.spreadshirt.com" class="imglink"><img src="/adverts/spreadshirted.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               
+               
+               <span xmlns="" class="Heading">Project Announcements</span><br xmlns=""><table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td><span class="ItemHeading">Mind the Gap</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           April 26, 2006 7:43 PM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <span style="font-weight: bold;">Earthdawn </span>characters are tough, and they only get tougher over time. If you've ever
+                        run a campaign that brought your player characters to Journeyman level (Circles 5-8), you might have noticed that there is
+                        a rapid shift in power. Magic items, group patterns, more attacks and a lot of potent spells help your group to overcome everything
+                        you threw at them in earlier Circles with ease. Most gamemasters don't expect this, and are often confronted with the frustrating
+                        situation of having to fudge die rolls and Death Ratings to keep the game challenging. This article will help you to find
+                        out how to keep your players&rsquo; characters on their toes.<br /><br />Find it <a href="http://www.earthdawn-classic.com/cms/mindthegap.html">here</a>.<br
+                        />
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Printed Book Status</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           April 24, 2006 6:34 PM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        James has posted a blog entry with the status of the printed books. You can check it out <a href="http://www.earthdawn-classic.com/blogs/selectBlog.html;jsessionid=avW3jGuiyqU9?id=2733&amp;articleId=600524"><span
+                        style="font-weight: bold;">here</span></a>. That is all. *grin*
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Earthdawn Shards</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           April 1, 2006 11:31 PM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <img align="right" src="http://www.ardanyan.de/RBL700.thumb.jpg" alt="" />The <strong>Shards</strong> series is a collection
+                        of adventures and encounters for the <strong>Earthdawn</strong> game. Intended as an inexpensive adventure resource      
+                        for <strong>Earthdawn</strong> gamemasters, and -like the recent <strong>Name-giver&rsquo;s Compendium                   
+                        Open Call</strong> - a springboard for aspiring writers. The <strong>Shards</strong> series will be published            
+                        online via <a href="http://www.drivethrurpg.com">DriveThruRPG.com</a>, and might even see print at a                     
+                        later stage (possibly as a collection once the series has produced a suitable number of issues). Here&rsquo;s a direct   
+                        link to the <a href="http://www.earthdawn-classic.com/cms/shardssubmissionguidelines.html">submission guidelines</a>,    
+                        which can also be found in our <strong>Articles</strong> section. If you have written an adventure that isn&rsquo;t      
+                        big enough for a full-blown adventure book, this is the place to go. <br /><br /><strong>Shards Volume I:                
+                        Journey to Lang</strong> is available now (<a href="http://www.drivethrurpg.com/catalog/product_info.php?cPath=205_236&amp;products_id=3742">click
+                        here</a>). Please use our <strong>Shards</strong> forum if you                            have any questions             
+                        regarding this series.<br />
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Artist Spotlight: Kathy Schad</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           March 26, 2006 5:56 AM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        Find an interview with the main artist of <b>Ardanyan's Revenge</b> in our <b>Articles</b> section, along with some preview
+                        artwork and details on the design process of the cover. <a href="http://www.earthdawn-classic.com/cms/spotlight1.html">Here</a>
+                        is a direct link to the article.<br/><br/>
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">And for a bit of miniatures news</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           March 21, 2006 4:04 PM
+                            by Richard Vowles
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        Those of you interested in miniatures may wish to take a look at what our <a href="http://theminiaturespage.com/news/295289/">sculptor</a>
+                        has been up to...
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Name-giver&#146;s Compendium Open Call Update</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           March 18, 2006 8:44 AM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        Looks like the <b>Name-givers' Compendium</b> will be a very pretty book - we put far more work into it than originally intended,
+                        but the sheer amount of new material is really worth the effort. The 'minor Disciplines' have grown up.<p/>While the development
+                        phase on the <b>Name-giver's Compendium</b> is still in full swing, we've finally reached a point where we were able to determine
+                        which of the submissions are in and which are out. The decisions haven't been easy, as the material was pretty good overall.
+                        <p/>All participants of the Open Call have been notified on the status of their submissions - our congratulations to everyone
+                        and thanks a lot for your work! Very soon, there will be more chances for you to submit material, and we would be glad to
+                        see more proposals--watch this space for an announcement on the <b>Shards</b> series.
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">DriveThruRPG.com GM Day Sale</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           March 5, 2006 9:21 AM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        (From DriveThruRPG) Yes, it's that time once again. From Saturday (March 4th) until Monday (March 6th) we will be offering
+                        a 20% off coupon that you can use for nearly every product on the site. Just enter the code <b>gmday</b> (all lowercase) during
+                        checkout, and this coupon will be applied to your order.<p/>You can use this coupon as many times as you want, on as many
+                        books as you want. So if you've been trying to decide whether or not to get a certain eBook, now is the time!
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Name-giver&#146;s Compendium: Open Call for Writers Closed</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           February 16, 2006 1:24 AM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        Our Open Call for Writers regarding the forthcoming <b>Name-givers Compendium</b> is now closed, further submissions will
+                        not be accepted. A big <b>THANK YOU</b> to everyone who participated, we have received more material than expected and almost
+                        all of it is really good, too.<p/>We will now evaluate the entries to find the best combination for the <b>Name-givers Compendium</b>,
+                        and announce the winners when the time is due. <i>Every</i> participant will receive an eMail on the status of his submissions,
+                        although this may take a while since we have to make a few hard choices.<p/>Some statistics on this open call: <br/><li/><b>Total
+                        number of entries:</b> 42<br/><li/><b>Most popular Discipline:</b> Horror Stalker (closely followed by the Boatman and the
+                        Traveled Scholar)<br/><li/><b>Highest Number of entries by a single writer:</b> 10<br/><br/>
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Rites of Protection and Passage</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           February 11, 2006 4:03 AM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <img src="http://www.redbrick.co.nz/RBL506.thumb.jpg" align="right" /><br/>While the release of <b>Ardanyan's Revenge</b>
+                        is a little delayed due to to the Battlecry convention this weekend, we are going to sweeten the wait and give you another
+                        free PDF. <b>Rites of Protection and Passage</b> provides general information on how kaers were designed and built before
+                        the Scourge. Gamemasters will find useful hints on how to set up and run a kaer campaign and what considerations to make when
+                        designing kaers and kaer-dweller characters. <p/>Look for it in the <a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html?id=2442">Downloads,
+                        Free Stuff</a> folder!
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Player's Compendium eBook Refresh</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           February 1, 2006 10:32 AM
+                            by Anunnaki
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        Customers who have purchased a copy of the Earthdawn Player's Compendium from DriveThruRPG.com should now haved received notification
+                        of a PDF update. This brings the eBook in line with the forthcoming print edition and includes the majority of the errata
+                        and feedback we have received to date. <b>It is possible you may have downloaded a cached copy. The date of this publication,
+                        at the bottom of p. 2, is "January 2006--First Printing"; if it says anything else, you will need to redownload from DTRPG.</b>
+                        If you have purchased a copy of the Player's Compendium, please make sure that your DriveThruRPG.com account is updated to
+                        provide notifications. We will be resetting the FAQs soon to remove extraneous entries and formal Errata will be available
+                        from the Downloads, Free Stuff as a PDF document.<br/><br/>
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCellAlternate">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td><span class="ItemHeading">Project Announcements now syndicated</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aE3hQ88W5MZc?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                           January 23, 2006 6:35 PM
+                            by Dammi
+                        </div>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        If you have an RSS news reader set up this announcements list is now syndicated. This means you can go to the <a href="http://www.earthdawn-classic.com/syndication/menu19.html">Syndication</a>
+                        menu and select the URL of the method you want (RSS 2.0 is a good bet) and add it to your feed.<br/><p/><br/>(I use the web
+                        version of www.newsgator.com for example, it is free and you can read your set up news feeds from anywhere)
+                        
+                     </td>
+                  </tr>
+                  <tr></tr>
+                  <tr>
+                     <td valign="top" class="TableCell">
+                        <hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td valign="top" class="TableCell" align="center"><a href="http://www.earthdawn-classic.com/projects/scrollAnnouncements.html;jsessionid=aE3hQ88W5MZc?id=11">Next 10</a>, <a href="http://www.earthdawn-classic.com/projects/scrollAnnouncements.html;jsessionid=aE3hQ88W5MZc?id=1">Previous 10</a></td>
+                  </tr>
+               </table>
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

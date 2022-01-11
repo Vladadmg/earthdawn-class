@@ -1,0 +1,303 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=aQISpY25nMff', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=aQISpY25nMff', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=aQISpY25nMff', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=aQISpY25nMff', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=aQISpY25nMff', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=aQISpY25nMff', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=aQISpY25nMff';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=aQISpY25nMff';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=aQISpY25nMff';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=aQISpY25nMff';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=aQISpY25nMff';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=aQISpY25nMff';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=aQISpY25nMff';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=aQISpY25nMff';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=aQISpY25nMff';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=aQISpY25nMff';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=aQISpY25nMff';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=aQISpY25nMff';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=aQISpY25nMff';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=aQISpY25nMff';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aQISpY25nMff">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aQISpY25nMff">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/ships.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aQISpY25nMff">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           22 total users, 0 logged in users, 22 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114733 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.drivethrurpg.com/catalog/index.php?cPath=256_229_235" class="imglink"><img src="/adverts/DTRPG-Advert.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td>
+                        <h1>Campaign Earthdawn: Joshua</h1>(home page: <a href="http://http://www.geocities.com/sjblack20/index.html" target="_blank">http://www.geocities.com/sjblack20/index.html</a>)<br></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"><i>First session starts tomorrow.</i></span></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"></span></td>
+                  </tr>
+               </table>
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="20%" valign="top" class="TableCellHeading">Journals</td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCellHeading">
+                        Selected Journal Entries
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="20%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 There are no journals.
+                                 
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellHeading">Cast</td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 <ul>
+                                    <li><b>Da&#146;ra&#146;nakh Av&#146;uli</b> - EARTHDAWN CHARACTER SHEET
+                                       CHARACTER DESCRIPTION
+                                       Character Name: Da&#146;ra&#146;nakh Av&#146;uli
+                                       Player Name: Steven James Black	Campaign Gamemaster: Joshua
+                                       Height: 8&#146; 	Discipline: Outcast Warrior (1ED Canon)
+                                       Weight: 475 lbs.	Circle: 1
+                                       Hair Color: Olive	Race: Troll
+                                       Eye Color: Brown	Sub-Race: NA
+                                       Skin Color: Olive 	Clan/House: Exiled from Stonearm
+                                       Gender: Male	Born/Homeland: Stoneheart Moot
+                                       Age: 25	Passion: Thystonius
+                                       
+                                       CHARACTER TIMELINE
+                                       
+                                       Born: Rua 2nd, 1481 TH at the Stoneheart trollmoot.
+                                       First-Named: Ka&#146;stol Anjarak Stonearm on Mawag 2nd, 1481 TH
+                                       Rite of Passage: Entered the Bloodlore moot and stole a Troll Sword with their symbol, proving his bravery on Charassa 13th,
+                                       1492 TH.
+                                       Second-Named: Ra&#146;theul Va&#146;arr Stonearm on Rua 2nd, 1492 TH.
+                                       Initiated as a First Circle Sky Raider: Strassa 21st, 1495 TH.
+                                       Marries Linemate: Ter&#146;a&#146;alla Althelia Rokab on Gahmil 7th, 1498 TH 
+                                       Divorced from Linemate, Exiled to Ashen Hills: Raquas 13th, 1501 TH.
+                                       Third-Named after Severance: Da&#146;ra&#146;nakh Av&#146;uli on Raquas 14th, 1502 TH.
+                                       Initiated as an Outcast Warrior: Riag 28th, 1505 TH.
+                                       Escapes Ashen Hills: Borrum 26th, 1505 TH.
+                                       Arrives at Bartertown: Strassa 1st, 1506 TH.
+                                       
+                                       CHARACTER HISTORY
+                                       
+                                       	Young Ka&#146;stol Anjarak Stonearm was born to his mother, Era&#146;tru De&#146;bora Stonearm, and his father, Tarr&#146;ahk Gorada Stonearm.
+                                       The birthing was a painful ordeal, and his mother died a year later. His father never forgave him, and constantly bullied
+                                       him. As he had fought to even be born, he fought his father&#146;s tyranny. He would endure this trial, and become the greatest
+                                       Troll Sky Raider who had ever lived. For his Rite of Passage, he decided to enter the rival Bloodlore clan and steal a Troll
+                                       Sword, proving his courage. This event changes his life. During his trial, he seen the way the Bloodlores lived. He saw them
+                                       living as true Sky Raiders, and when he returned home, he began to see the difference in his people. They had grown weak by
+                                       incorporating Throalic and Lowland troll customs. But he would become a great Sky Raider and change the Stonehearts back to
+                                       true Sky Raiders. He took the name Ra&#146;theul Va&#146;arr Stonearm and became a Sky Raider Initiate. He was recognized for his bravery
+                                       on several occasions during raids eventually being invited by Ter&#146;a&#146;alla Athelia Rokab into their line marriage. He accepted
+                                       and had a son with her called Se&#146;bo Ro&#146;arr Rokab. He even told her his plans for a new Stoneheart trollmoot. His line mate
+                                       was alarmed and made sure word got back to Kerthale. Kerthale took it as a huge insult to his katorr and the clan kat&#146;ral.
+                                       Kerthale asked him to apologize for what he said, but Ra&#146;theul refused. In the same day, he was divorced from the Rokab family
+                                       and underwent the Severance. He had his named changed to Da&#146;ra&#146;nakh Av&#146;uli and was exiled to the Ashen Hills. Living in the
+                                       shadow of the Death&#146;s Sea was harsh, and survival was the first priority. He learned of a Discipline called the Outcast Warrior.
+                                       The Discipline was made by kava for kava. He asked to be initiated by a Journeyman Outcast Warrior called Ke&#146;stor Nu&#146;gha.
+                                       He became a First Circle Outcast Warrior and used his new talents to fight his way out of the Ashen Hills. He came to Bartertown
+                                       by way of Kratas. 
+                                       
+                                       CHARACTER PERSONALITY
+                                       	
+                                       Surface Traits (Courageous, Intolerant)
+                                       	Hidden Traits (Introverted, Vengeful)
+                                       
+                                       General Appearance: Da&#146;ra&#146;nakh does not pay any attention to personal appearance. Of course, living in ash, and sweating buckets
+                                       near the Death Sea have also made him sorely in need of a bath. 
+                                       
+                                       Spiritual Beliefs: Da&#146;ra&#146;nakh believes in the Passion Thystonius, even more so after surviving the Ashen Hills and escaping,
+                                       which he sees as the Will of Thystonius directly helping him. The true test of a troll is survival of the elements and he
+                                       should abandon all civilization. This is why the Stoneheart&#146;s ways never sat with him and this belief got him exiled. He also
+                                       believes in revenge, which may lead him from Thystonius to Raggok if he is not careful. 
+                                       
+                                       Moral Code: &#147;Survival of the Fittest.&#148; As a former Troll Sky Raider, Da&#146;ra&#146;nakh will steal and kill to survive. He never tells
+                                       lies in any circumstance, as he believes lies are only necessary in so-called &#147;civilization&#148;.
+                                       
+                                       Cannot do: Da&#146;ra&#146;nakh refuses to take any quests from dwarves or trolls ever. He cannot return to the Stoneheart moot on punishment
+                                       of death.
+                                       
+                                       What does your character love? The woman he loved betrayed Da&#146;ra&#146;nakh. He loved his son, but will never see him again. Because
+                                       of all of this, he does not trust or love others easily.   
+                                       
+                                       What does your character hate? Da&#146;ra&#146;nakh hates Dwarfs, Lowland Trolls, Therans, and the Stoneheart trollmoot.
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCell">There are no campaign entries for this journal.</td>
+                  </tr>
+               </table>
+               
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

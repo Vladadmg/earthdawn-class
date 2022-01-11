@@ -1,0 +1,128 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left" valign="bottom"><a href="http://www.earthdawn-classic.com" class="imglink"><img src="/images/top.gif" border="0"></a></td>
+            <td width="94%">
+               <div align="right"><a href="http://www.earthdawn-classic.com" class="imglink"><img src="/images/classic.gif" alt="http://www.earthdawn-classic.com" border="0"></a></div>
+               <div align="right">Welcome Guest!</div>
+               <div align="right"><a href="http://www.earthdawn-classic.com/login/login.html;jsessionid=a_BB8XDaT1Qa" class="linka">Login</a>, <a href="http://www.earthdawn-classic.com/login/join.html;jsessionid=a_BB8XDaT1Qa" class="linka">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><a href="http://www.earthdawn-classic.com" class="imglink"><img src="/images/bottom.gif" border="0"></a></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu1.html;jsessionid=a_BB8XDaT1Qa" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu3.html;jsessionid=a_BB8XDaT1Qa" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu5.html;jsessionid=a_BB8XDaT1Qa" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu7.html;jsessionid=a_BB8XDaT1Qa" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu13.html;jsessionid=a_BB8XDaT1Qa" title="Downloads" class="MenuLink">Downloads</a><table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                           <tr border="0">
+                              <td width="10%" class="MenuLink"> --</td>
+                              <td nowrap class="MenuLink"><a href="/downloads/downloadsList.html;jsessionid=a_BB8XDaT1Qa" title="Download Groups" class="MenuLink">Download Groups</a></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/gallery/menu15.html;jsessionid=a_BB8XDaT1Qa" title="Gallery" class="MenuLink">Gallery</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html;jsessionid=a_BB8XDaT1Qa" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html;jsessionid=a_BB8XDaT1Qa" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html;jsessionid=a_BB8XDaT1Qa" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html;jsessionid=a_BB8XDaT1Qa" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html;jsessionid=a_BB8XDaT1Qa" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html;jsessionid=a_BB8XDaT1Qa" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=a_BB8XDaT1Qa">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">1 active users, 541 users, 540 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">86306 since 1/4/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               <span class="Heading">Download Groups</span><br><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="60%" class="TableCellHeading">Name
+                        
+                     </td>
+                     <td width="15%" class="TableCellHeading">Number Of Files</td>
+                     <td width="15%" class="TableCellHeading">Last File Uploaded</td>
+                     <td width="10%" nowrap class="TableCellHeading"></td>
+                  </tr>
+                  <tr>
+                     <td width="60%" valign="top" class="TableCell"><a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html;jsessionid=a_BB8XDaT1Qa?id=2442">Free Stuff</a><br>Download free stuff from RedBrick for use with your Earthdawn games here.
+                     </td>
+                     <td width="15%" valign="top" class="TableCell">8</td>
+                     <td width="15%" valign="top" class="TableCell">5/2/04 8:39 PM</td>
+                     <td width="10%" valign="top" nowrap class="TableCellSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="60%" valign="top" class="TableCellAlternate"><a href="http://www.earthdawn-classic.com/downloads/viewDownloads.html;jsessionid=a_BB8XDaT1Qa?id=376">Operational</a><br>Download administrative information here, including the latest Publications Roster and the Earthdawn Submissions and Playtester's
+                        Guides.
+                     </td>
+                     <td width="15%" valign="top" class="TableCellAlternate">5</td>
+                     <td width="15%" valign="top" class="TableCellAlternate">5/1/04 4:34 PM</td>
+                     <td width="10%" valign="top" nowrap class="TableCellAlternateSmall"></td>
+                  </tr>
+               </table>
+               
+               
+               
+            </td>
+         </tr>
+      </table><script language="JavaScript"><!--
+  -->
+</script></body>
+</html>

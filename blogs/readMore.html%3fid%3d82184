@@ -1,0 +1,215 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">6 active users, 1 user, 5 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">65384 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="left" class="TableCellHeading">RedBrick Update - August 2004</td>
+                  </tr>
+                  <tr>
+                     <td width="100%" class="TableCellHeading">
+                        <p align="right"><i>By James Flowers,
+                              26 August 2004</i></p>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="100%" align="left" class="TableCell">Well, the last month has definitely been one of consolidation and integration. This is the first of what I intend to be (at
+                        least) monthly updates on my blog, so you can expect more of these going forwards. If we appear to be less than communicative
+                        of late, I can only be the one to shoulder the blame for that; because I have been so "face down, bum up" (as we say here),
+                        it hasn't left much time for forum postings, decent responses to emails, or much else.
+                        
+                        
+                        <p>Richard has been kept busy tweaking the forums and underlying content management system that drives the web site, and working
+                           with artists for materials based around the Earthdawn Shards. Plus he has been getting some Shards into an almost completed
+                           state. (Well, he would have a couple completed already if I didn't keep sticking my nose in! *laugh*) I have been well and
+                           truly occupied with books -- editing, writing, scanning, image editing, cross-referencing, and a whole lot more. I even managed
+                           to crank out a draft layout, using the opening "Inheritance" chapter, as a mockup for one possible book interior "look". Once
+                           I have some better artwork for this, we'll look at posting a couple of versions on the web site so you can get a taste of
+                           what the new books will look like. On top of all this is the administrative elements, for which we have been doing some "other
+                           stuff" (yes, Earthdawn-related), the results of which will become evident over the next few months.
+                        </p>
+                        
+                        
+                        <p>There is a *lot* to do -- a lot more than I thought when we first looked at this licence -- and the workload doesn't seem
+                           to get smaller! My wife and family think I am glued to my chair, as each time they wander past the home office where I spend
+                           the majority of my time, I'm always "stuck" there. They have been extremely supportive, as have Richard's family, and we are
+                           blessed in that regard. Thankfully, we are also working with some great people at the moment, who are volunteering a lot of
+                           their time assisting us with "things Earthdawn". For the record, I am *extremely* grateful for the assistance we have received
+                           to date; without it, we would not be as far along the track as we are now! And that thanks extends to those of you who have
+                           taken the time in email and on forums to offer assistance. We haven't forgotten that you have asked, but for the moment there
+                           are advantages in keeping the development group smaller and tighter. Your time will come, don't worry... *grin*
+                        </p>
+                        
+                        
+                        <p>We are striving to move into Playtest mode as quickly as possible. However, the two main rulebooks are taking a lot longer
+                           to get ready than we anticipated. This is not due to a lack of activity, but more the amount of work required to ensure that
+                           everything brought together from the existing supplements is consistent across the books. This is in terms of phrasing, style,
+                           referencing, modifiers, examples -- the whole gamut. And it goes beyond the books in establishing a style that will bring
+                           that same consistency into all of our products. A lot of different writers have contributed content to the Earthdawn game
+                           over the years; add to this the amount of QandA and errata, plus all the new content, and there is a major piece of work involved
+                           in getting this completed. Our focus at present is on the Player's Compendium, although we certainly haven't forgotten the
+                           Gamemaster's Compendium, or the other books. We have recently updated the Publications Roster with additional books and a
+                           status indicator to show what is In Progress. This should give you an idea of what's "on the boil". However, it doesn't show
+                           you what's due out and when; as soon as we can give a firm date, we will. I'll be direct here and say that I'm not confident
+                           we'll have the first books out this year (contrary to posts on one of the EDC forums). That's not what we intended or wanted,
+                           but, for my part, I want to make sure that the Player's and Gamemaster's Compendiums are as good as we can get them. These
+                           will be the books referenced by all of the new, original content, books in progress at the moment, so they are kind of important
+                           in that respect. That and I'd rather not have to go through a rework of them again any time soon. Down that path lies insanity...
+                           *smile*
+                        </p>
+                        
+                        
+                        <p>The Player's Compendium is currently running at around 420 draft pages. This includes edit notes for playtesters and a detailed
+                           Contents section, but excludes an Index, Character Record Sheet, Compiled Tables, Map, and artwork. Best estimates for final
+                           typeset page count at the moment would be closer to 500 pages for this book (no, that's not a typo). Currently there are 23
+                           chapters in the "tome", combining the majority of the player-related content from the following FASA books and supplements:
+                           ED Rulebook, ED Companion, Arcane Mysteries of Barsaive, Magic: A Manual of Mystic Secrets, and The Adept's Way. Some content
+                           from other supplements, such as Crystal Raiders of Barsaive, ED Survival Guide, Orks of Cara Fahd, Serpent River, Denizens
+                           I and II, and the Barsaive Boxed Set, plus several adventures are also included in here. On top of this, there is a considerable
+                           amount of new content, in the form of expanded+errata'd+QandA'd content and a lot of optional rules intended to expand the
+                           scope of the game, without breaking compatibility with previous products. Almost every piece of text has been looked at, reviewed,
+                           kept intact, reworded or discarded. In the Player's Compendium, that's currently 426,200 words as I write this. There's more
+                           work to do yet.
+                        </p>
+                        
+                        
+                        <p>The Gamemaster's Compendium is currently running at around 350 draft pages, as per the comments on the Player's Compendium,
+                           above. Best estimates for final typeset page count at the moment would be around 450 pages for this book. Because it contains
+                           the bestiary and legendary treasures, the artwork will be greater in this book, so the page count may increase from this.
+                           Currently there are 24 chapters in this book, combining the majority of the gamemaster-related content, including most of
+                           the background "fluff" text, from the following FASA books and supplements: ED Rulebook, ED Companion, Arcane Mysteries of
+                           Barsaive, Magic: A Manual of Mystic Secrets, Creatures of Barsaive, Horrors, Crystal Raiders of Barsaive, Serpent River, Orks
+                           of Cara Fahd, the Barsaive Boxed Set, Dragons, Blood Wood, the Parlainth Boxed Set, and a whole lot more. This book is getting
+                           some increased attention at the moment, and while I've not yet reviewed the entire content yet, but I'm getting there. 357,016
+                           words at time of writing this, and likely to increase.
+                        </p>
+                        
+                        
+                        <p>The next RedBrick Update will focus on more of the details of what's "new" in the Player's Compendium, but to kick this first
+                           RedBrick update off I thought I'd start with a "general" what is in the EDC books spiel. Caveat: this is all subject to Playtester
+                           feedback, and may change, but since I've been slack in letting you know just what's going on, you may as well know how things
+                           stand for the moment.
+                        </p>
+                        
+                        
+                        <p>Anyway, back to the grindstone that is called my wordprocessor.</p>
+                        
+                        
+                        <p>Take kaer,</p>
+                        
+                        
+                        <p>JAMES FLOWERS<br>
+                           Earthdawn Line Developer<br>
+                           RedBrick Limited
+                        </p>
+                     </td>
+                  </tr>
+                  <td width="100%" align="right" class="TableCellSmall"><a href="/blogs/checkShow.html">Back to blog</a></td>
+               </table><br>
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="100%" align="center" type="TableCellHeading">Comments</td>
+                  </tr>
+               </table>
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="40%" class="TableCellHeading">Subject</td>
+                     <td width="22%" class="TableCellHeading">Author</td>
+                     <td width="13%" class="TableCellHeading">When Posted</td>
+                     <td width="13%" align="center" class="TableCellHeading">Messages</td>
+                     <td width="10%" class="TableCellHeading"></td>
+                  </tr>
+               </table>
+               
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

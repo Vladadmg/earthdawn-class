@@ -1,0 +1,354 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=aP8HfPphcUch', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=aP8HfPphcUch', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=aP8HfPphcUch', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=aP8HfPphcUch', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=aP8HfPphcUch', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=aP8HfPphcUch', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=aP8HfPphcUch';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=aP8HfPphcUch';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=aP8HfPphcUch';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=aP8HfPphcUch';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=aP8HfPphcUch';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=aP8HfPphcUch';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=aP8HfPphcUch';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=aP8HfPphcUch';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=aP8HfPphcUch';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=aP8HfPphcUch';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=aP8HfPphcUch';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=aP8HfPphcUch';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=aP8HfPphcUch';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=aP8HfPphcUch';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aP8HfPphcUch">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aP8HfPphcUch">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/ardanyansrevenge.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aP8HfPphcUch">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           11 total users, 2 logged in users, 9 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114780 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.cafepress.com/earthdawn" class="imglink"><img src="/adverts/cafeed.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td>
+                        <h1>Campaign Valyan's Heirs</h1>(home page: <a href="http://www.lore-merchant.org" target="_blank">www.lore-merchant.org</a>)<br></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"><i>East of the Caucavic Mountains lies a large expanse of grasslands. The villages of this area are mostly descended from a single
+                              kaer that owes its survival to the Troubadour hero Valyan. Every year, a group of newly initiated adepts is pledged to the
+                              service of these villages. These adepts are collectively known as Valyan's Heirs... *(This is an active campaign, and is not
+                              accepting associations on characters.)*</i></span></td>
+                  </tr>
+                  <tr>
+                     <td><span class="body"></span></td>
+                  </tr>
+               </table>
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="20%" valign="top" class="TableCellHeading">Journals</td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCellHeading">
+                        Selected Journal Entries
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="20%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                    <tr>
+                                       <td width="100%" class="TableCellSelected"><a href="http://www.earthdawn-classic.com/campaigns/showCampaign.html;jsessionid=aP8HfPphcUch?id=1920&amp;journalId=1942">Return to Valyan's Legacy</a><br></td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellHeading">Cast</td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 <ul>
+                                    <li>Banstar - A Human Wizard who perished in the final battle against the Mist.</li>
+                                    <li><b>Gir</b> - A Windling Beastmaster, accompanied by her hunting cat companion, Pernn.
+                                    </li>
+                                    <li><b>Josh Harrison</b> - I am the GM for this campaign, started in 2003.
+                                    </li>
+                                    <li>Kelric - A Human Swordmaster who died in the cellars of Kaer Akarem.</li>
+                                    <li><b>Kira</b> - A Windling Thief.
+                                    </li>
+                                    <li><b>Malorrin</b> - Malorrin is the newest member of the group, a dwarf Elementalist.
+                                    </li>
+                                    <li>Rezak - A Troll Archer. He joined the group during their ordeal in Kaer Akarem. He fell to the arrows of Derros and his bandit gang.</li>
+                                    <li><b>Thrak</b> - A Troll Warrior.
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                     <td width="1%"><img src="/image-processor/common/simple/spacer.gif" border="0"></td>
+                     <td width="79%" valign="top" class="TableCell">
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCell">
+                                 <h2>Journal Return to Valyan's Legacy</h2>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><i>After their experiences in the Blood Wood and Kaer Akarem, the group returns home, hoping to learn why there was a false map
+                                    hidden in that clay tablet...</i></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of 7 Teayu - 26 Teayu, 1507 TH</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 1089,
+                                 Entry created on April 19, 2004 3:22 PM,
+                                 Last updated on April 19, 2004 3:23 PM
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>Gir</b> - A Windling Beastmaster, accompanied by her hunting cat companion, Pernn.
+                                    </li>
+                                    <li><b>Josh Harrison</b> - I am the GM for this campaign, started in 2003.
+                                    </li>
+                                    <li><b>Kira</b> - A Windling Thief.
+                                    </li>
+                                    <li><b>Rezak</b> - A Troll Archer. He joined the group during their ordeal in Kaer Akarem. He fell to the arrows of Derros and his bandit gang.
+                                    </li>
+                                    <li><b>Thrak</b> - A Troll Warrior.
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>Home again</b><br>
+                                 As written by Josh Harrison on April 19, 2004 3:23 PM
+                                 <p></p>
+                                 The group returned to Valyan's Legacy, and told Banstar's mentor Cedric that his student had fallen in battle with a Horror.
+                                 They also told Erthan and Valin, Kelric's parents, that he had died as well.<p/>They were invited to a ceremony where the
+                                 two fallen comrades had their names inscribed on a memorial to the fallen Defenders of the Legacy. Kira and Rezak were sworn
+                                 in as new Defenders, carrying on the work of their late friends.<p/>That afternoon, they found a group of green recruits poring
+                                 excitedly over a map -- which bore a striking resemblance to the map the group had been carrying for the past few months.
+                                 The story of how they had obtained this map bore a strong resemblance to the group's own experience... suspicious, the group
+                                 joined forces with the other party in hopes of uncovering whatever plot was in motion.<p/>The next few days were uneventful,
+                                 as they groups followed the map. Then, early on their fifth day of travel, they came upon a box canyon with the unmistakable
+                                 large stone doors of a kaer set in the mountainside.<p/>Expecting an ambush, the group carefully approached the doors. Despite
+                                 their caution, the group sprung the ambush. About a dozen archers rained arrows down on the group, which took shelter in the
+                                 kaer entrance. Rezak and Gir tried to escape back up the canyon, only to be captured by more bandits (led by a troll Warrior)
+                                 who were blocking the exit. In the ensuing struggle, Rezak was killed in a hail of arrows.<p/>Thrak managed to rescue Gir,
+                                 and took her back into the kaer, where they slammed the doors shut behind them. Now the eight adepts are locked in a kaer,
+                                 with an angry bandit gang outside, and who knows what perils inside...
+                                 <br></td>
+                           </tr>
+                        </table>
+                        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td width="100%" class="TableCellHeading"><b><i>Campaign Entry of 26-29 Teayu, 1507 TH</i></b></td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCellAlternate">
+                                 Number of times read: 1028,
+                                 Entry created on April 27, 2004 10:46 AM,
+                                 Last updated on April 27, 2004 10:47 AM
+                                 <p></p>
+                                 
+                                 In the campaign at time of entry:
+                                 <br><ul>
+                                    <li><b>Gir</b> - A Windling Beastmaster, accompanied by her hunting cat companion, Pernn.
+                                    </li>
+                                    <li><b>Josh Harrison</b> - I am the GM for this campaign, started in 2003.
+                                    </li>
+                                    <li><b>Kira</b> - A Windling Thief.
+                                    </li>
+                                    <li><b>Thrak</b> - A Troll Warrior.
+                                    </li>
+                                 </ul>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td width="100%" class="TableCell"><b>Escape and Revenge</b><br>
+                                 As written by Josh Harrison on April 27, 2004 10:47 AM
+                                 <p></p>
+                                 Soon after Thrak slammed the door to the kaer, Kira heard the distinctive sound of the chain and lock being put back across
+                                 the outside.<p/>With nothing better to do, the group set out to explore the kaer. All evidence indicated that the kaer was
+                                 long abandoned -- aside from some broken rock and bits of trash, there was nothing of real value to be found.<p/>One of the
+                                 rooms in the kaer had a series of murals that depicted the history of the kaer -- from its founding and construction to its
+                                 betrayal and destruction by the very person who founded it.<p/>Further exploration uncovered the kaer's throne room, and the
+                                 secret -- and unwarded -- passage to the surface. The passage was guarded by the cursed, undead spirit of the former lord
+                                 who built and betrayed the kaer. After a brief but intense fight, the king was defeated, and his gem-encrusted treasures were
+                                 recoverered.<p/>Rather than rush to the surface, the group spent a couple days holed up in the kaer, healing their wounds
+                                 from the fight with the bandits and the undead king.<p/>They finally emerged into the sunlight, and tracked the bandits back
+                                 to their camp. While scouting, Kira had the opportunity to steal the bandit leader's bow. She took to opportunity, and flew
+                                 off with it. The rest of the group attacked, and defeated the bandit leader, his troll lieutenant, and the bandits present
+                                 in the camp.<p/>The group made plans to return to Valyan's Legacy to see if they could sell the loot taken from the undead
+                                 king and the bandit camp.
+                                 <br></td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+               </table>
+               
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

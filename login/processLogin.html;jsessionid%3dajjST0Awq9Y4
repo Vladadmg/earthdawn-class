@@ -1,0 +1,131 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+   </head>
+   <body>
+      <div align="right"><a href="http://www.earthdawn-classic.com" class="imglink"><img src="/images/classic.gif" alt="http://www.earthdawn-classic.com" border="0"></a></div>
+      <div align="right">Welcome Guest!</div>
+      <div align="right"><a href="http://www.earthdawn-classic.com/login/login.html;jsessionid=ajjST0Awq9Y4" class="linka">Login</a>, <a href="http://www.earthdawn-classic.com/login/join.html;jsessionid=ajjST0Awq9Y4" class="linka">Join</a></div>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="10%" valign="top">
+               <center>
+                  
+                  
+                  <a href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/parlainth.gif" border="0"></a>
+                  
+                  
+               </center><br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=ajjST0Awq9Y4">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">2 active users, 5 users, 3 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">100991 since 1/4/04</span></td>
+                  </tr>
+               </table>
+               <br><center>
+                  
+                  
+                  <a href="http://www.cafepress.com/earthdawn" class="imglink"><img src="/adverts/cafeed.gif" border="0"></a>
+                  
+                  
+               </center>
+            </td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="83%" valign="top" class="Center">
+               
+               
+               <form action="http://www.earthdawn-classic.com/login/processLogin.html;jsessionid=ajjST0Awq9Y4" method="POST" name="loginForm"> <span class="Heading"></span><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                     <tr>
+                        <td width="20%" nowrap class="TableCell"><span class="heavyweight">Email Address</span></td>
+                        <td width="80%" class="TableCell"><input type="text" name="userId" size="60"><span class="Error"> * (2)</span></td>
+                     </tr>
+                     <tr>
+                        <td width="20%" nowrap class="TableCellAlternate"><span class="heavyweight">Password</span></td>
+                        <td width="80%" class="TableCellAlternate"><input type="password" name="password" size="20"><span class="Error"> * (1)</span></td>
+                     </tr>
+                     <tr>
+                        <td width="20%" nowrap class="TableCell"><span class="heavyweight">Remember Time</span></td>
+                        <td width="80%" class="TableCell"><input type="text" name="rememberTime"> (days - 0 days for just this session)
+                        </td>
+                     </tr>
+                  </table>
+                  <input type="submit" name="perform" value="Login">  
+                  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                     <tr>
+                        <td class="Error">1.</td>
+                        <td class="Error">Field cannot be empty</td>
+                     </tr>
+                     <tr>
+                        <td class="Error">2.</td>
+                        <td class="Error">Field cannot be empty</td>
+                     </tr>
+                  </table>
+               </form> 
+               
+               <a href="http://www.earthdawn-classic.com/login/forgotPassword.html;jsessionid=ajjST0Awq9Y4" class="linka">forgot your password?</a><a href="http://www.earthdawn-classic.com/login/join.html;jsessionid=ajjST0Awq9Y4" class="linka"> join?</a><a href="http://www.earthdawn-classic.com/login/requestConfirm.html;jsessionid=ajjST0Awq9Y4" class="linka"> lost your activation message?</a>
+               
+            </td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="5%" valign="top" align="left" nowrap>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu1.html;jsessionid=ajjST0Awq9Y4" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu3.html;jsessionid=ajjST0Awq9Y4" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu5.html;jsessionid=ajjST0Awq9Y4" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu7.html;jsessionid=ajjST0Awq9Y4" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu13.html;jsessionid=ajjST0Awq9Y4" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/gallery/menu15.html;jsessionid=ajjST0Awq9Y4" title="Gallery" class="MenuLink">Gallery</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html;jsessionid=ajjST0Awq9Y4" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html;jsessionid=ajjST0Awq9Y4" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html;jsessionid=ajjST0Awq9Y4" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html;jsessionid=ajjST0Awq9Y4" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html;jsessionid=ajjST0Awq9Y4" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html;jsessionid=ajjST0Awq9Y4" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br></td>
+         </tr>
+      </table><script language="JavaScript"><!--
+  -->
+</script></body>
+</html>

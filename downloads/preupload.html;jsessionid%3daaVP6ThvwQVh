@@ -1,0 +1,106 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left" valign="bottom"><img src="/images/sadecadaver200-top.gif" border="0"></td>
+            <td width="94%">
+               <div align="right"><a href="http://www.earthdawn-classic.com"><img src="/images/classic.gif" width="780" height="144" alt="http://www.earthdawn-classic.com" border="0"></a></div>
+               <div align="right">Welcome Guest!</div>
+               <div align="right"><a href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aaVP6ThvwQVh">Login</a>, <a href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aaVP6ThvwQVh">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/sadecadaver200-bottom.gif" border="0" alt="Art:Larry McDougall, Color: Sade"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu1.html;jsessionid=aaVP6ThvwQVh" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu3.html;jsessionid=aaVP6ThvwQVh" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu5.html;jsessionid=aaVP6ThvwQVh" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu7.html;jsessionid=aaVP6ThvwQVh" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu13.html;jsessionid=aaVP6ThvwQVh" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/gallery/menu15.html;jsessionid=aaVP6ThvwQVh" title="Gallery" class="MenuLink">Gallery</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html;jsessionid=aaVP6ThvwQVh" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html;jsessionid=aaVP6ThvwQVh" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html;jsessionid=aaVP6ThvwQVh" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html;jsessionid=aaVP6ThvwQVh" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html;jsessionid=aaVP6ThvwQVh" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html;jsessionid=aaVP6ThvwQVh" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aaVP6ThvwQVh">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">0 active users, 37 users, 37 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">84018 since 1/4/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               <form action="http://www.earthdawn-classic.com/downloads/upload.html;jsessionid=aaVP6ThvwQVh" method="POST" enctype="multipart/form-data">  <span class="Heading">Add/Replace File</span><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                     <tr>
+                        <td width="20%" nowrap class="TableCell"><span class="heavyweight">File</span></td>
+                        <td width="80%" class="TableCell"><input type="file" name="fileItem" size="50"><span class="Error"> *</span></td>
+                     </tr>
+                     <tr>
+                        <td width="20%" nowrap class="TableCellAlternate"><span class="heavyweight">Description</span></td>
+                        <td width="80%" class="TableCellAlternate"><textarea name="description" rows="5" cols="60" size="1000"></textarea><span class="Error"> *</span></td>
+                     </tr>
+                  </table>
+                  <input type="hidden" name="groupId"><span class="Error"> *</span>  <input type="submit" name="btnActionPrefixupload" value="Upload"><input type="submit" name="btnActionPrefixcancel" value="Cancel"></form> 
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

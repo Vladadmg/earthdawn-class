@@ -1,0 +1,463 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=aIh0foJcAZM6', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=aIh0foJcAZM6', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=aIh0foJcAZM6', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=aIh0foJcAZM6', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=aIh0foJcAZM6', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=aIh0foJcAZM6', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=aIh0foJcAZM6';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=aIh0foJcAZM6';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=aIh0foJcAZM6">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=aIh0foJcAZM6">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/obsidiman2.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=aWPG_ur7Dd76?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=aIh0foJcAZM6">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           8 total users, 2 logged in users, 6 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           114341 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com/simple_shopping/shop.html" class="imglink"><img src="/adverts/minis-advert.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               <span xmlns="" class="PageHeader">Project: Web Site Announcements</span><hr xmlns=""><br xmlns=""><table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="left">
+                        <p>Announcements about the Earthdawn Classic web site.</p>
+                     </td>
+                  </tr>
+               </table>
+               <hr xmlns="">
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="5%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=hide&amp;type=show_news"><img src="/image-processor/projects/simple/openurl.gif" border="0"></a></td>
+                     <td width="95%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=hide&amp;type=show_news">Hide Project Announcements</a><br><hr>
+                        
+                        <span class="Heading">Project Announcements</span><br><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                           <tr>
+                              <td><span class="ItemHeading">Project Announcements now syndicated</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    January 23, 2006 6:35 PM
+                                     by Dammi
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 If you have an RSS news reader set up this announcements list is now syndicated. This means you can go to the <a href="http://www.earthdawn-classic.com/syndication/menu19.html">Syndication</a>
+                                 menu and select the URL of the method you want (RSS 2.0 is a good bet) and add it to your feed.<br/><p/><br/>(I use the web
+                                 version of www.newsgator.com for example, it is free and you can read your set up news feeds from anywhere)
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">Miniatures are finally ready for ordering!</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    November 19, 2005 9:08 PM
+                                     by Richard Vowles
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 The newest capability from RedBrick is now available - online shopping for Miniatures right here on this web site!  You should
+                                 all now have a new menu item (Shopping) that will allow you to see what we have available.<br/><br/>Please remember to read
+                                 the help and ask questions if you need anything!
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">minis: have arrived in bulk</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    May 1, 2005 4:27 PM
+                                     by Richard Vowles
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 I have been getting some questions about these, they have arrived. I have copies of most of the "Earthdawn" unique miniatures
+                                 that we were planning to sell. I just need good photos of the miniatures in their naked form and we can start selling them.
+                                 As we get good painted pictures I will put them up as well.
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">And More Sample Chapters -- How It Came To Pass, Name-Giver Races</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    March 12, 2005 8:36 PM
+                                     by Anunnaki
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 Following a frenetic burst of activity, in the Downloads, Free Stuff, folder you will find two more sample chapters -- <b>How
+                                 It Came To Pass</b>, <b>Name-Giver Races</b> -- from the forthcoming Earthdawn Player's Compendium. Please note, these are
+                                 samples only, and may change for the final print version. Back to the grindstone!
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">Another Sample Chapter Posted -- Inheritance</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    March 12, 2005 8:33 PM
+                                     by Anunnaki
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 The opening fiction for Earthdawn makes a reappearance. In the Downloads, Free Stuff, folder you will find another sample
+                                 chapter -- <b>Inheritance</b> -- from the forthcoming Earthdawn Player's Compendium. Please note, this is a sample only, and
+                                 may change for the final print version. Enjoy! EDIT: An updated <b>Game Concepts</b> chapter has been posted.
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">Minis update</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    March 8, 2005 6:46 PM
+                                     by Richard Vowles
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 Yay! The first batch of miniatures have arrived back from the manufacturer and in James' words, they are perfect! I took delivery
+                                 of 30 Thundra Beasts and RIders last Friday and I must admit they are pretty good. <p/>If you would like any of the miniatures
+                                 in particular  (good pictures are <a href="http://www.faszination-fantasy.de/zinnfigindex.htm">here</a>) then let us know
+                                 by posting in the Merchandise forum. T'Skrang and Windlings will probably be first off the line...
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">Sample Chapter Posted -- Game Concepts</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    February 24, 2005 9:41 PM
+                                     by Anunnaki
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 OK, its been a while (too long) since we put some Free Stuff online. In the Downloads, Free Stuff, folder you will find a
+                                 sample chapter -- <b>Game Concepts</b> -- from the forthcoming Earthdawn Player's Compendium. Please note, this is a sample
+                                 only, and may change for the final print version. More samples will be posted over the next few weeks. Enjoy!
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">First set of minis off to manufacture</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    February 19, 2005 4:09 PM
+                                     by Richard Vowles
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 I have sent off the first set of minis to get created - I am focusing on the ones people seem to want the most  - the Thundra
+                                 Beasts and so forth. I should get the first lot back next week so I'll put up the images in the Gallery when I get the results.
+                                 <p/>Update: I rang them on Friday and they said they still hadn't started. They'd call me end of this week some time and update
+                                 me.
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">Campaigns section updates</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    December 30, 2004 3:11 PM
+                                     by Richard Vowles
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 I have blatted some bugs in the campaigns section. I'm sort of gathering that people are finding it difficult to use, i wouldn't
+                                 mind some suggestions on improving it. But in the meantime, for those who play ED but would never bother to type it in, i
+                                 have added an upload/download section.<br/><p/>This allows you to create a download group for each journal entry (i.e. a game
+                                 session) and you can upload your audio files (e.g. podcasting) or anything else to it. I'd recommend that you try uploading
+                                 a 500k or 1mb file first to see how long it takes - a 2 hour session will be around 30Mb and will take some time to upload.
+                                 It may be smaller if you wmv it and drop the quality down :-)<br/><p/>I do watch all files that get uploaded so it won't turn
+                                 into a haven for pron or warez. I'll also get the RSS working on the campaigns section so its easy to download the audio for
+                                 those with such apps.
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">Galleries are now up</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    December 19, 2004 10:33 PM
+                                     by Richard Vowles
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 For those involved in projects which require art, the galleries are now up. There are also two public galleries (Fan Art and
+                                 Fan Miniatures) - if you can think of more that are sensible, please let us know in Web Site Comments in the forums.
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCellAlternate">
+                                 <hr>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td><span class="ItemHeading">New project management rollout</span><span class="ItemType"> [<a href="http://www.earthdawn-classic.com/projects/selectProject.html;jsessionid=aIh0foJcAZM6?id=152144">Web Site Announcements</a>]</span><br><div class="ItemInfo">Posted on 
+                                    December 5, 2004 10:44 AM
+                                     by Richard Vowles
+                                 </div>
+                              </td>
+                           </tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 This is the rollout of the new project management stuff around the web site. The "news" has gone and all aspects of project
+                                 related stuff are contained within projects. For most of you, this will probably not mean anything apart from some weird bugs
+                                 - if you see any, please email us or post them to web site comments in the forums.
+                                 
+                              </td>
+                           </tr>
+                           <tr></tr>
+                           <tr>
+                              <td valign="top" class="TableCell">
+                                 <hr>
+                              </td>
+                           </tr>
+                        </table>
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="5%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=hide&amp;type=show_forums"><img src="/image-processor/projects/simple/openurl.gif" border="0"></a></td>
+                     <td width="95%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=hide&amp;type=show_forums">Hide Project Forums</a><br><hr>
+                        
+                        
+                        
+                        
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="5%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=show&amp;type=show_downloads"><img src="/image-processor/projects/simple/closedurl.gif" border="0"></a></td>
+                     <td width="95%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=show&amp;type=show_downloads">Show Project Downloads</a><br><hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="5%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=show&amp;type=show_gallery"><img src="/image-processor/projects/simple/closedurl.gif" border="0"></a></td>
+                     <td width="95%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=show&amp;type=show_gallery">Show Project Gallery</a><br><hr>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td width="5%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=show&amp;type=show_members"><img src="/image-processor/projects/simple/closedurl.gif" border="0"></a></td>
+                     <td width="95%" valign="top" align="left"><a href="http://www.earthdawn-classic.com/projects/hideShow.html;jsessionid=aIh0foJcAZM6?hide=show&amp;type=show_members">Show Project Members</a><br><hr>
+                     </td>
+                  </tr>
+               </table>
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>

@@ -1,0 +1,184 @@
+<html>
+   <link rel="STYLESHEET" href="/styles.css" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+      <title>Earthdawn Classic</title>
+      <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   </head>
+   <body>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="5%" align="left"><img src="/images/top-man.gif" border="0"></td>
+            <td width="94%"><a href="http://www.earthdawn-classic.com">
+                  <div align="right"><img src="/images/title.gif" width="569" height="74" alt="http://www.earthdawn-classic.com" border="0"></div></a><div align="right">Welcome Guest!</div>
+               <div align="right"><a href="/login/login.html">Login</a>, <a href="/login/join.html">Join</a></div>
+            </td>
+            <td width="1%"><img src="/images/spacer.gif"></td>
+         </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+         <tr>
+            <td width="15%" valign="top" align="left">
+               <div align="left"><img src="/images/bottom-man.gif" border="0"></div>
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" class="MenuBackground">
+                  <tr>
+                     <td class="TableCellHeading">Menu</td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/menu1.html" title="News" class="MenuLink">News</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/login/menu3.html" title="User" class="MenuLink">User</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/forums/menu9.html" title="Forums" class="MenuLink">Forums</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/downloads/menu11.html" title="Downloads" class="MenuLink">Downloads</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/projects/menu13.html" title="Projects" class="MenuLink">Projects</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/campaigns/menu15.html" title="Campaigns" class="MenuLink">Campaigns</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/blogs/menu17.html" title="Blogs" class="MenuLink">Blogs</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/syndication/menu19.html" title="Syndication" class="MenuLink">Syndication</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/contactus.html" title="Contact Us" class="MenuLink">Contact Us</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/faq.html" title="FAQ" class="MenuLink">FAQ</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Links.html" title="Links" class="MenuLink">Links</a></td>
+                  </tr>
+                  <tr border="0">
+                     <td nowrap class="MenuLink"><a href="/cms/Merchandise.html" title="Merchandise" class="MenuLink">Merchandise</a></td>
+                  </tr>
+               </table><br>
+               <br>
+               
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="/sessions/sessions.html">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">22 active users, 3 users, 19 guests.</span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">68840 since 4/01/04</span></td>
+                  </tr>
+               </table>
+               <br></td>
+            <td width="1%" valign="top"><img src="/images/spacer.gif"></td>
+            <td width="84%" valign="top" class="Center">
+               
+               
+               <span class="Heading">Forums</span><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="55%" valign="top" class="TableCellHeading">Earthdawn Classic General<br><i>General discussion around the Earthdawn ...</i></td>
+                     <td width="20%" align="center" valign="top" class="TableCellHeading">Posts [Threads]</td>
+                     <td width="10%" valign="top" class="TableCellHeading">Last Post</td>
+                     <td width="15%" valign="top" nowrap class="TableCellHeadingText"></td>
+                  </tr>
+                  <tr>
+                     <td width="55%" valign="top" class="TableCell"><a href="/forums/viewForumThreads.html?id=262">For Gamemasters</a><br>Discussion on gamemastering Earthdawn. May contain spoilers so proceed with caution!
+                     </td>
+                     <td width="20%" align="center" valign="top" class="TableCell">785 [68]
+                        
+                     </td>
+                     <td width="10%" valign="top" class="TableCell">Tuesday, 28 September 2004</td>
+                     <td width="15%" valign="top" nowrap class="TableCellSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="55%" valign="top" class="TableCellAlternate"><a href="/forums/viewForumThreads.html?id=259">For Players</a><br>Discussion on playing Earthdawn. Experiences, stories, and questions relating to being a player.
+                     </td>
+                     <td width="20%" align="center" valign="top" class="TableCellAlternate">207 [18]
+                        
+                     </td>
+                     <td width="10%" valign="top" class="TableCellAlternate">Saturday, 25 September 2004</td>
+                     <td width="15%" valign="top" nowrap class="TableCellAlternateSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="55%" valign="top" class="TableCell"><a href="/forums/viewForumThreads.html?id=2486">Free Stuff</a><br>Discussion on Earthdawn Free Stuff from RedBrick. Errata, feedback, variants and what you would like to see can be posted
+                        here.
+                     </td>
+                     <td width="20%" align="center" valign="top" class="TableCell">18 [3]
+                        
+                     </td>
+                     <td width="10%" valign="top" class="TableCell">Friday, 17 September 2004</td>
+                     <td width="15%" valign="top" nowrap class="TableCellSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="55%" valign="top" class="TableCellAlternate"><a href="/forums/viewForumThreads.html?id=2660">Merchandise</a><br>Discussion on licensed Earthdawn Merchandise from RedBrick. Questions, feedback, requests and what you would like to see can
+                        be posted here.
+                     </td>
+                     <td width="20%" align="center" valign="top" class="TableCellAlternate">7 [3]
+                        
+                     </td>
+                     <td width="10%" valign="top" class="TableCellAlternate">Monday, 13 September 2004</td>
+                     <td width="15%" valign="top" nowrap class="TableCellAlternateSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="55%" valign="top" class="TableCell"><a href="/forums/viewForumThreads.html?id=366">The Juggling Shadowmant</a><br>In-character conversation for Earthdawn players.
+                     </td>
+                     <td width="20%" align="center" valign="top" class="TableCell">116 [2]
+                        
+                     </td>
+                     <td width="10%" valign="top" class="TableCell">Wednesday, 18 August 2004</td>
+                     <td width="15%" valign="top" nowrap class="TableCellSmall"></td>
+                  </tr>
+                  <tr>
+                     <td width="55%" valign="top" class="TableCellAlternate"><a href="/forums/viewForumThreads.html?id=270">Web Site Comments</a><br>Discussion about the Earthdawn Classic web site.
+                     </td>
+                     <td width="20%" align="center" valign="top" class="TableCellAlternate">78 [19]
+                        
+                     </td>
+                     <td width="10%" valign="top" class="TableCellAlternate">Sunday, 15 August 2004</td>
+                     <td width="15%" valign="top" nowrap class="TableCellAlternateSmall"></td>
+                  </tr>
+               </table>
+               <hr>
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td width="55%" valign="top" class="TableCellHeading">Earthdawn Classic Product Development<br><i></i></td>
+                     <td width="20%" align="center" valign="top" class="TableCellHeading">Posts [Threads]</td>
+                     <td width="10%" valign="top" class="TableCellHeading">Last Post</td>
+                     <td width="15%" valign="top" nowrap class="TableCellHeadingText"></td>
+                  </tr>
+                  <tr>
+                     <td width="55%" valign="top" class="TableCell"><a href="/forums/viewForumThreads.html?id=380">Product Development</a><br>General questions relating to product development, submissions/playtesters guide, etc.
+                     </td>
+                     <td width="20%" align="center" valign="top" class="TableCell">70 [11]
+                        
+                     </td>
+                     <td width="10%" valign="top" class="TableCell">Tuesday, 28 September 2004</td>
+                     <td width="15%" valign="top" nowrap class="TableCellSmall"></td>
+                  </tr>
+               </table>
+               <hr>
+               
+               
+               <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td class="Error">Not currently inside a forum</td>
+                  </tr>
+               </table>
+               
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>

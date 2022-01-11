@@ -1,0 +1,205 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <link href="/styles.css" rel="STYLESHEET" type="text/css" title="default"></link>
+   <link href="/print.css" rel="STYLESHEET" type="text/css" media="print"></link>
+   <head>
+      <link href="/menus/pop_style.css" rel="stylesheet" type="text/css"></link>
+      <meta http-equiv="content-type" content="text/html; charset=iso-8859-1"></meta>
+      <title>Earthdawn Home</title><script xmlns="" language="JavaScript1.2" src="/menus/pop_core.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_b4.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" type="text/javascript">
+			var pMenu = new PopupMenu('pMenu');
+			 with (pMenu)
+			   {
+			     startMenu('root', false, 10, 175, 17, hBar, '', false);
+			     
+addItem('&nbsp; Forums', 'mnu2', 'sm:', null, 60);
+addItem('&nbsp; Shopping', 'mnu4', 'sm:', null, 78);
+addItem('&nbsp; Projects', 'mnu6', 'sm:', null, 78);
+addItem('&nbsp; Campaigns', 'mnu8', 'sm:', null, 87);
+addItem('&nbsp; User', 'mnu10', 'sm:', null, 51);
+addItem('&nbsp; Downloads', 'mnu14', 'sm:', null, 87);
+addItem('&nbsp; Gallery', 'mnu16', 'sm:', null, 69);
+addItem('&nbsp; Blogs', 'mnu18', 'sm:', null, 51);
+addItem('&nbsp; Syndication', 'mnu20', 'sm:', null, 105);
+addItem('&nbsp; FAQs', 'mnu24', 'sm:', null, 51);
+addItem('&nbsp; Articles', 'mnu91', 'sm:', null, 78);
+addItem('&nbsp; Contact Us', '/cms/contactus.html;jsessionid=ax1SbBBmujt4', '', null, 100 );
+addItem('&nbsp; Links', '/cms/Links.html;jsessionid=ax1SbBBmujt4', '', null, 50 );
+addItem('&nbsp; Merchandise', '/cms/Merchandise.html;jsessionid=ax1SbBBmujt4', '', null, 110 );
+startMenu('mnu2', true, 0, 40, 100, subM, '', false);
+addItem('&nbsp; Forums List', '/forums/index.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu4', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Shop', '/simple_shopping/shop.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Help', '/cms/Help.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu6', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; Announcements', '/projects/announcements.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Projects List', '/projects/projects.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu8', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Favorite Campaigns', '/campaigns/favoriteCampaigns.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; All Campaigns', '/campaigns/allCampaigns.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Help', '/cms/help.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu10', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; Login Status', '/login/index.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Login', '/login/login.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Join', '/login/join.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Forgot Password', '/login/forgotPassword.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; re-Request Confirmation', '/login/requestConfirm.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Help', '/cms/helplogin.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu14', true, 0, 40, 130, subM, '', false);
+addItem('&nbsp; Download Groups', '/downloads/downloadsList.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu16', true, 0, 40, 110, subM, '', false);
+addItem('&nbsp; Galleries', '/gallery/galleries.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu18', true, 0, 40, 90, subM, '', false);
+addItem('&nbsp; Bloggers', '/blogs/blogslist.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu20', true, 0, 40, 150, subM, '', false);
+addItem('&nbsp; Syndications Available', '/syndication/syndicationList.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu24', true, 0, 40, 80, subM, '', false);
+addItem('&nbsp; All Faqs', '/faqs/index.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Faq Topics', '/faqs/topics.html;jsessionid=ax1SbBBmujt4', '' ); 
+startMenu('mnu91', true, 0, 40, 120, subM, '', false);
+addItem('&nbsp; ED-Con 2005', '/cms/edcon_2005.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; EPC vs ED1', '/cms/epc_changes.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Earthdawn?', '/cms/whatisearthdawn.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Origins 2005', 'mnu102', 'sm:', null, 114);
+startMenu('mnu102', true, 0, 40, 140, subM, '', false);
+addItem('&nbsp; Part 1', '/cms/origins2005_1.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Part 2', '/cms/origins2005_2.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Part 3', '/cms/origins2005_3.html;jsessionid=ax1SbBBmujt4', '' ); 
+addItem('&nbsp; Part 4', '/cms/origins2005_4.html;jsessionid=ax1SbBBmujt4', '' ); 
+
+               }
+             pMenu.onclick = function(mN, iN) { with (this)
+{
+ // Do actions depending on the item that the mouse was over at the time of the click.
+ // You may with to use nested IFs or 'switch' statements etc. if you're familiar with JS.
+ if (mN == 'root')
+ {
+   
+    if (iN == 1 ) location.href = '/forums/menu1.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 2 ) location.href = '/simple_shopping/menu3.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 3 ) location.href = '/projects/menu5.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 4 ) location.href = '/campaigns/menu7.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 5 ) location.href = '/login/menu9.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 6 ) location.href = '/downloads/menu13.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 7 ) location.href = '/gallery/menu15.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 8 ) location.href = '/blogs/menu17.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 9 ) location.href = '/syndication/menu19.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 10 ) location.href = '/faqs/menu23.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 11 ) location.href = '/cms/Articles.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 12 ) location.href = '/cms/contactus.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 13 ) location.href = '/cms/Links.html;jsessionid=ax1SbBBmujt4';
+    if (iN == 14 ) location.href = '/cms/Merchandise.html;jsessionid=ax1SbBBmujt4';
+
+ }
+}};  
+        </script><script xmlns="" language="JavaScript1.2" src="/menus/pop_data_after.js" type="text/javascript"></script><script xmlns="" language="JavaScript1.2" src="/menus/pop_events.js" type="text/javascript"></script></head>
+   <body>
+      <div id="logo">
+         <table width="100%">
+            <tr>
+               <td align="left" background="http://www.redbrick.co.nz/stripe.gif" valign="middle" height="121" width="100%"><a href="http://www.redbrick.co.nz"><img src="http://www.redbrick.co.nz/rbl_logo_dark.gif" width="314" height="61" alt="" border="0" align="right"></img></a></td>
+            </tr>
+         </table>
+      </div>
+      <div id="wrapper">
+         <div id="welcome">
+            <table width="100%" cellpadding="0" cellspacing="0" border="0">
+               <tr>
+                  <td align="left">
+                     <div id="greeting" nowrap="nowrap">Welcome Guest! :: 
+                        								<a class="linka" href="http://www.earthdawn-classic.com/login/login.html;jsessionid=ax1SbBBmujt4">Login</a>
+                        	,								<a class="linka" href="http://www.earthdawn-classic.com/login/join.html;jsessionid=ax1SbBBmujt4">Join</a></div>
+                  </td>
+               </tr>
+            </table>
+         </div>
+         <div id="left">
+            <div id="adverts">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://www.earthdawn-classic.com" class="imglink"><img src="/rotating/verjigorm.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="summary">
+               
+               
+               
+               <table xmlns="" width="100%" border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Email Me Updates When...</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           <form action="http://www.earthdawn-classic.com/qns/subscribe.html;jsessionid=a6RmsHMJOqr-?id=290655" method="post"><center><b>Enter
+                           your email address if you would like to be notified when the                            printed Players and Gamemaster&rsquo;s
+                           Compendiums are available.</b></center><br/><input name='emailAddress' size='20'/><br/><input type='submit' value='Subscribe'/></form><br/><a
+                           id='helptip_summary'>Help<span>Enter your email address in the box provided under each question you are interested in. When
+                           some status update occurs for that topic, you will receive an email message.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall"><a href="http://www.earthdawn-classic.com/sessions/sessions.html;jsessionid=ax1SbBBmujt4">Current Activity Summary</a></td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellAlternateSmallCentre"><span align="center">
+                           34 total users, 0 logged in users, 34 guests.
+                           </span></td>
+                  </tr>
+                  <tr>
+                     <td align="center" class="TableCellHeadingSmall">Unique Sessions</td>
+                  </tr>
+                  <tr>
+                     <td class="TableCellSmallCentre"><span align="center">
+                           117326 since 1/4/04
+                           </span></td>
+                  </tr>
+               </table>
+               <br></br></div>
+            <div id="adverts2">
+               <center>
+                  
+                  
+                  <a xmlns="" href="http://earthdawn.spreadshirt.com" class="imglink"><img src="/adverts/spreadshirted.gif" border="0"></a>
+                  
+                  
+               </center>
+            </div>
+            <div id="activity" nowrap="nowrap">
+               <br></br></div>
+         </div>
+         <div id="rest">
+            <p>
+               
+               
+               
+               <form xmlns="" action="http://www.earthdawn-classic.com/login/doJoin.html;jsessionid=ax1SbBBmujt4" method="POST" name="joinForm">You will be sent a confirmation email once you have entered your details.
+                  <span class="Heading"></span><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                     <tr>
+                        <td class="TableCell" nowrap width="20%"><span class="heavyweight">Email Address</span></td>
+                        <td class="TableCell" width="80%"><input type="text" id="emailAddress" name="emailAddress" size="60"><span class="Error"> *</span></td>
+                     </tr>
+                     <tr>
+                        <td class="TableCellAlternate" nowrap width="20%"><span class="heavyweight">User Name</span></td>
+                        <td class="TableCellAlternate" width="80%"><input type="text" id="userName" name="userName" size="50"><span class="Error"> *</span></td>
+                     </tr>
+                     <tr>
+                        <td class="TableCell" nowrap width="20%"><span class="heavyweight">Password</span></td>
+                        <td class="TableCell" width="80%"><input type="password" id="password" name="password" size="20"><span class="Error"> *</span></td>
+                     </tr>
+                     <tr>
+                        <td class="TableCellAlternate" nowrap width="20%"><span class="heavyweight">Confirm Password</span></td>
+                        <td class="TableCellAlternate" width="80%"><input type="password" id="secondPassword" name="secondPassword" size="20"><span class="Error"> *</span></td>
+                     </tr>
+                  </table>
+                  <input type="submit" id="perform" name="perform" value="Join"></form> 
+               
+               
+            </p>
+         </div>
+      </div>
+   </body>
+</html>
